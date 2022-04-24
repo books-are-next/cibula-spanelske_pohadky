@@ -1,9 +1,7 @@
 ---
+title: "O\_ženě, která nechtěla jíst se svým mužem"
 contentType: prose
 ---
-
-O ženě, která nechtěla jíst  
-se svým mužem
 
   
 

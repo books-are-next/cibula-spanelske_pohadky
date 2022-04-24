@@ -1,8 +1,7 @@
 ---
+title: "Lékař a\_Smrt"
 contentType: prose
 ---
-
-Lékař a Smrt
 
   
 

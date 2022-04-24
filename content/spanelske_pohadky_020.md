@@ -1,8 +1,7 @@
 ---
+title: Tajemství
 contentType: prose
 ---
-
-Tajemství
 
   
 

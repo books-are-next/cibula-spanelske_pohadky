@@ -1,8 +1,7 @@
 ---
+title: Hádanka
 contentType: prose
 ---
-
-Hádanka
 
   
 
@@ -56,10 +55,10 @@ A zavolal princeznu.
 
 Pastýř si princeznu prohlédl od hlavy až k patě, nedal na sobě nijak znát, jestli se mu líbí nebo nelíbí, a hned spustil:
 
-> „Kukačka je nad kukačkou,  
+> _„Kukačka je nad kukačkou,  
 > v trávě leze hádek,  
 > do paláce běží  
-> malý povídálek.“
+> malý povídálek.“_
 
 Princezna přemýšlela a rozmýšlela, ale ať hádala, jak hádala, neuhodla.
 

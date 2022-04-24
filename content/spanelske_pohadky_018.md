@@ -1,8 +1,7 @@
 ---
+title: Kdo je šťastnější
 contentType: prose
 ---
-
-Kdo je šťastnější
 
   
 

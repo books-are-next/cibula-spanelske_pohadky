@@ -1,8 +1,7 @@
 ---
+title: "Jak se tři bratři tahali o\_přikrývku"
 contentType: prose
 ---
-
-Jak se tři bratři tahali o přikrývku
 
   
 

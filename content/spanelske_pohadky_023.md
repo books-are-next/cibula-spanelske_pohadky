@@ -1,8 +1,7 @@
 ---
+title: "O\_hloupém muži"
 contentType: prose
 ---
-
-O hloupém muži
 
   
 

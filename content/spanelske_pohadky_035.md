@@ -1,8 +1,7 @@
 ---
+title: "Opice a\_jabloň"
 contentType: prose
 ---
-
-Opice a jabloň
 
   
 

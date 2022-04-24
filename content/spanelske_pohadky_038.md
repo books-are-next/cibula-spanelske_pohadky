@@ -1,8 +1,7 @@
 ---
+title: "Katalineta a\_velryba"
 contentType: prose
 ---
-
-Katalineta a velryba
 
   
 

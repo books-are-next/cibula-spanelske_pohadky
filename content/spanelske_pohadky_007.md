@@ -1,8 +1,7 @@
 ---
+title: "Tři bratři z\_Galicie"
 contentType: prose
 ---
-
-Tři bratři z Galicie
 
   
 

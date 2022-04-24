@@ -1,8 +1,7 @@
 ---
+title: Tři karafiáty
 contentType: prose
 ---
-
-Tři karafiáty
 
   
 

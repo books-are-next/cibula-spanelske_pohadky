@@ -1,8 +1,7 @@
 ---
+title: "Rybář a\_delfín"
 contentType: prose
 ---
-
-Rybář a delfín
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Bílý papoušek
 contentType: prose
 ---
-
-Bílý papoušek
 
   
 

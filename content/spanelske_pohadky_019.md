@@ -1,8 +1,7 @@
 ---
+title: Zázračná flétna
 contentType: prose
 ---
-
-Zázračná flétna
 
   
 

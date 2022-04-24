@@ -1,8 +1,7 @@
 ---
+title: "Juan a\_zlatý prsten"
 contentType: prose
 ---
-
-Juan a zlatý prsten
 
   
 

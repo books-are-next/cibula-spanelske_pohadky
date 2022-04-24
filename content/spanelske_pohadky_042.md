@@ -1,8 +1,7 @@
 ---
+title: Poznámka na závěr
 contentType: prose
 ---
-
-Poznámka na závěr
 
   
 

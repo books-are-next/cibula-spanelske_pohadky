@@ -1,8 +1,7 @@
 ---
+title: Pomluva
 contentType: prose
 ---
-
-Pomluva
 
   
 

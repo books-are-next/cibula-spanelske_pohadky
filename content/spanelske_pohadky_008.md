@@ -1,8 +1,7 @@
 ---
+title: Nejsilnější kniha světa
 contentType: prose
 ---
-
-Nejsilnější kniha světa
 
   
 

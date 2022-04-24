@@ -1,8 +1,7 @@
 ---
+title: Půlkohoutek
 contentType: prose
 ---
-
-Půlkohoutek
 
   
 
