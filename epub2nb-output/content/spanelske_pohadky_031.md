@@ -1,8 +1,7 @@
 ---
+title: Tři dary
 contentType: prose
 ---
-
-Tři dary
 
   
 

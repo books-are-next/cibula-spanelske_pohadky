@@ -1,8 +1,7 @@
 ---
+title: "O\_nespokojené Franciskitě"
 contentType: prose
 ---
-
-O nespokojené Franciskitě
 
   
 

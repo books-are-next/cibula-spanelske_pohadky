@@ -1,8 +1,7 @@
 ---
+title: Sázka paní Štěstěny
 contentType: prose
 ---
-
-Sázka paní Štěstěny
 
   
 

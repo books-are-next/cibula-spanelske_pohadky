@@ -1,8 +1,7 @@
 ---
+title: Pohádečky
 contentType: prose
 ---
-
-Pohádečky
 
 Byl večer a na nebi vyskočily první hvězdy. Na palouku mezi stromy praskal oheň; kolem plamenů seděli tři pastevci a přes ramena měli barevné přikrývky. Dívali se do ohně a mlčeli.
 
@@ -10,7 +9,7 @@ Mezi stromy se občas ozvaly pomalé kroky obrovských černých býků. Daleko 
 
 Nejmladší pastevec vstal a přihodil do plamenů náruč suchých větví. Oheň zaplápolal, pastevec se znovu posadil pod starý olivovník a začal vyprávět.
 
-Pán a hlupák
+### Pán a hlupák
 
   
 
@@ -48,7 +47,7 @@ Hlupák se zasmál a zvolal:
 
 Měsíc vystoupil vysoko nad hory a jeho světlo už nebyla oranžové, ale zelené. Druhý pastevec povstal, hodil do skomírajících plamenů náruč dřeva, posadil se a začal vyprávět:
 
-Pán a blázen
+### Pán a blázen
 
   
 
@@ -118,7 +117,7 @@ A tryskem se vrátil zpátky do města.
 
 Když druhý pastevec domluvil, chvíli bylo ticho. Oheň dohoříval. Měsíc na nebi vystoupil ještě výš a jeho světlo už nebylo oranžové ani zelené, ale modré. Nejstarší pastevec vstal a hodil do řeřavého dřeva náruč suchých větví. Plameny vyšlehly, dřevo zapraskalo a pastevec začal vyprávět:
 
-Pán a chytrák
+### Pán a chytrák
 
   
 

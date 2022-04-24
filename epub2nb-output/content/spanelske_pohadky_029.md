@@ -1,8 +1,7 @@
 ---
+title: "O\_napravení zlostné ženy"
 contentType: prose
 ---
-
-O napravení zlostné ženy
 
   
 

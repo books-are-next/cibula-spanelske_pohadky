@@ -1,28 +1,32 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Španělské pohádky",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Václav Cibula",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-10T00:00:00.000Z"
+      "modified": "2021-11-10T00:00:00.000Z",
+      "isbn": " 2-7000-1158-9, 978‑80‑274‑1932‑6, 978‑80‑274‑1933‑3, 978‑80‑274‑1934‑0",
+      "publisherShort": "MKP"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP_uroven2_kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
-      "h3": "",
+      "h2": "MLP_uroven3_nadpis\nMLP_uroven2_kapitola",
+      "h3": "MLP_uroven3_nadpis",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP_text_bez1radku\nMLP_text_bez1radku_-0-12\nMLP_text_bez1radku_-12-0\nMLP_dopis_bez1radku",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP_dopis_bez1radku_-I",
+      "figure": "MLP_obrazky\nMLP_obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I\nMLP_text_-I\nMLP-text-uprostred--I\nMLP_verse\nMLP_verse.+\nMLP-znak-kurziva-11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b",
+      "strong": "MLP_tiraz_autor_a_nazev\nMLP_licence_paragraf",
       "remove": "",
       "ignore": ""
     },
@@ -30,50 +34,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "spanelske_pohadky_001.md",
             "xhtml": "spanelske_pohadky_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "spanelske_pohadky_002.md",
             "xhtml": "spanelske_pohadky_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "spanelske_pohadky_003.md",
             "xhtml": "spanelske_pohadky_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "spanelske_pohadky_004.md",
             "xhtml": "spanelske_pohadky_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "spanelske_pohadky_005.md",
@@ -84,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pohádečky"
           },
           {
             "filename": "spanelske_pohadky_006.md",
@@ -95,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Hádanka"
           },
           {
             "filename": "spanelske_pohadky_007.md",
@@ -106,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tři bratři z Galicie"
           },
           {
             "filename": "spanelske_pohadky_008.md",
@@ -117,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nejsilnější kniha světa"
           },
           {
             "filename": "spanelske_pohadky_009.md",
@@ -128,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "O nespokojené Franciskitě"
           },
           {
             "filename": "spanelske_pohadky_010.md",
@@ -139,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zlatý kočár"
           },
           {
             "filename": "spanelske_pohadky_011.md",
@@ -150,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Paní Bída"
           },
           {
             "filename": "spanelske_pohadky_012.md",
@@ -161,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Půlkohoutek"
           },
           {
             "filename": "spanelske_pohadky_013.md",
@@ -172,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "O myších, kterým chutnalo železo"
           },
           {
             "filename": "spanelske_pohadky_014.md",
@@ -183,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Co je na světě nejvzácnější"
           },
           {
             "filename": "spanelske_pohadky_015.md",
@@ -194,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Neposlušná manželka"
           },
           {
             "filename": "spanelske_pohadky_016.md",
@@ -205,7 +236,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jak se tři bratři tahali o přikrývku"
           },
           {
             "filename": "spanelske_pohadky_017.md",
@@ -216,7 +249,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "O ženě, která nechtěla jíst se svým mužem"
           },
           {
             "filename": "spanelske_pohadky_018.md",
@@ -227,7 +262,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kdo je šťastnější"
           },
           {
             "filename": "spanelske_pohadky_019.md",
@@ -238,7 +275,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zázračná flétna"
           },
           {
             "filename": "spanelske_pohadky_020.md",
@@ -249,7 +288,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tajemství"
           },
           {
             "filename": "spanelske_pohadky_021.md",
@@ -260,7 +301,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Sázka paní Štěstěny"
           },
           {
             "filename": "spanelske_pohadky_022.md",
@@ -271,7 +314,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pomluva"
           },
           {
             "filename": "spanelske_pohadky_023.md",
@@ -282,7 +327,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "O hloupém muži"
           },
           {
             "filename": "spanelske_pohadky_024.md",
@@ -293,7 +340,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lékař a Smrt"
           },
           {
             "filename": "spanelske_pohadky_025.md",
@@ -304,7 +353,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "O nahém králi"
           },
           {
             "filename": "spanelske_pohadky_026.md",
@@ -315,7 +366,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zázračné hory z ostrova Mallorky"
           },
           {
             "filename": "spanelske_pohadky_027.md",
@@ -326,7 +379,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Žabí panenka"
           },
           {
             "filename": "spanelske_pohadky_028.md",
@@ -337,7 +392,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "O královském rouchu"
           },
           {
             "filename": "spanelske_pohadky_029.md",
@@ -348,7 +405,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "O napravení zlostné ženy"
           },
           {
             "filename": "spanelske_pohadky_030.md",
@@ -359,7 +418,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Voják a princezna"
           },
           {
             "filename": "spanelske_pohadky_031.md",
@@ -370,7 +431,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tři dary"
           },
           {
             "filename": "spanelske_pohadky_032.md",
@@ -381,7 +444,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tři karafiáty"
           },
           {
             "filename": "spanelske_pohadky_033.md",
@@ -392,7 +457,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Juan a zlatý prsten"
           },
           {
             "filename": "spanelske_pohadky_034.md",
@@ -403,7 +470,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pasačka a vlk"
           },
           {
             "filename": "spanelske_pohadky_035.md",
@@ -414,7 +483,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Opice a jabloň"
           },
           {
             "filename": "spanelske_pohadky_036.md",
@@ -425,7 +496,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Rybář a delfín"
           },
           {
             "filename": "spanelske_pohadky_037.md",
@@ -436,7 +509,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bílý papoušek"
           },
           {
             "filename": "spanelske_pohadky_038.md",
@@ -447,7 +522,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Katalineta a velryba"
           },
           {
             "filename": "spanelske_pohadky_039.md",
@@ -458,7 +535,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Čaroděj Palermo"
           },
           {
             "filename": "spanelske_pohadky_040.md",
@@ -469,7 +548,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dvakrátjed a princezna"
           },
           {
             "filename": "spanelske_pohadky_041.md",
@@ -480,7 +561,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pohádka o kouzelné píšťalce"
           },
           {
             "filename": "spanelske_pohadky_042.md",
@@ -491,7 +574,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Poznámka na závěr"
           },
           {
             "filename": "spanelske_pohadky_043.md",
@@ -502,18 +587,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Prameny"
           },
           {
             "filename": "spanelske_pohadky_044.md",
             "xhtml": "spanelske_pohadky_044.xhtml",
             "id": 43,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -553,235 +641,235 @@
         "xhtml": "spanelske_pohadky_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pohádečky",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_005.md",
         "xhtml": "spanelske_pohadky_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hádanka",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_006.md",
         "xhtml": "spanelske_pohadky_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tři bratři z Galicie",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_007.md",
         "xhtml": "spanelske_pohadky_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nejsilnější kniha světa",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_008.md",
         "xhtml": "spanelske_pohadky_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O nespokojené Franciskitě",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_009.md",
         "xhtml": "spanelske_pohadky_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zlatý kočár",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_010.md",
         "xhtml": "spanelske_pohadky_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Paní Bída",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_011.md",
         "xhtml": "spanelske_pohadky_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Půlkohoutek",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_012.md",
         "xhtml": "spanelske_pohadky_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O myších, kterým chutnalo železo",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_013.md",
         "xhtml": "spanelske_pohadky_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Co je na světě nejvzácnější",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_014.md",
         "xhtml": "spanelske_pohadky_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Neposlušná manželka",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_015.md",
         "xhtml": "spanelske_pohadky_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jak se tři bratři tahali o přikrývku",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_016.md",
         "xhtml": "spanelske_pohadky_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O ženě, která nechtěla jíst se svým mužem",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_017.md",
         "xhtml": "spanelske_pohadky_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kdo je šťastnější",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_018.md",
         "xhtml": "spanelske_pohadky_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zázračná flétna",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_019.md",
         "xhtml": "spanelske_pohadky_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tajemství",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_020.md",
         "xhtml": "spanelske_pohadky_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sázka paní Štěstěny",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_021.md",
         "xhtml": "spanelske_pohadky_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pomluva",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_022.md",
         "xhtml": "spanelske_pohadky_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O hloupém muži",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_023.md",
         "xhtml": "spanelske_pohadky_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Lékař a Smrt",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_024.md",
         "xhtml": "spanelske_pohadky_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O nahém králi",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_025.md",
         "xhtml": "spanelske_pohadky_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zázračné hory z ostrova Mallorky",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_026.md",
         "xhtml": "spanelske_pohadky_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Žabí panenka",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_027.md",
         "xhtml": "spanelske_pohadky_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O královském rouchu",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_028.md",
         "xhtml": "spanelske_pohadky_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O napravení zlostné ženy",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_029.md",
         "xhtml": "spanelske_pohadky_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Voják a princezna",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_030.md",
         "xhtml": "spanelske_pohadky_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tři dary",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_031.md",
         "xhtml": "spanelske_pohadky_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tři karafiáty",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_032.md",
         "xhtml": "spanelske_pohadky_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Juan a zlatý prsten",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_033.md",
         "xhtml": "spanelske_pohadky_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pasačka a vlk",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_034.md",
         "xhtml": "spanelske_pohadky_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Opice a jabloň",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_035.md",
         "xhtml": "spanelske_pohadky_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Rybář a delfín",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_036.md",
         "xhtml": "spanelske_pohadky_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bílý papoušek",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_037.md",
         "xhtml": "spanelske_pohadky_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Katalineta a velryba",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_038.md",
         "xhtml": "spanelske_pohadky_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čaroděj Palermo",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_039.md",
         "xhtml": "spanelske_pohadky_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvakrátjed a princezna",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_040.md",
         "xhtml": "spanelske_pohadky_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pohádka o kouzelné píšťalce",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_041.md",
         "xhtml": "spanelske_pohadky_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámka na závěr",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_042.md",
         "xhtml": "spanelske_pohadky_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Prameny",
         "subtitleSuggest": "",
         "filename": "spanelske_pohadky_043.md",
         "xhtml": "spanelske_pohadky_043.xhtml"
@@ -863,6 +951,6 @@
       "user": "books-are-next",
       "repo": "cibula-spanelske_pohadky"
     },
-    "generatedAt": 1650833916910
+    "generatedAt": 1650835183449
   }
 }

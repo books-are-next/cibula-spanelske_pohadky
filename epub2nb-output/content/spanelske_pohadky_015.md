@@ -1,8 +1,7 @@
 ---
+title: Neposlušná manželka
 contentType: prose
 ---
-
-Neposlušná manželka
 
   
 

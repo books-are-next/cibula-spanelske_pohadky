@@ -1,8 +1,7 @@
 ---
+title: Co je na světě nejvzácnější
 contentType: prose
 ---
-
-Co je na světě nejvzácnější
 
   
 

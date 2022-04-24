@@ -1,8 +1,7 @@
 ---
+title: Paní Bída
 contentType: prose
 ---
-
-Paní Bída
 
   
 

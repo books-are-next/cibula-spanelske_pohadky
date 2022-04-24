@@ -1,8 +1,7 @@
 ---
+title: "Voják a\_princezna"
 contentType: prose
 ---
-
-Voják a princezna
 
   
 

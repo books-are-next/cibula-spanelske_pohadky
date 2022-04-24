@@ -1,8 +1,7 @@
 ---
+title: "Pasačka a\_vlk"
 contentType: prose
 ---
-
-Pasačka a vlk
 
   
 

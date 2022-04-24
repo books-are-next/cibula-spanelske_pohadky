@@ -1,8 +1,7 @@
 ---
+title: Čaroděj Palermo
 contentType: prose
 ---
-
-Čaroděj Palermo
 
   
 

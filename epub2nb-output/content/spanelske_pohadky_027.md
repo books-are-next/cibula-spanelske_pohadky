@@ -1,8 +1,7 @@
 ---
+title: Žabí panenka
 contentType: prose
 ---
-
-Žabí panenka
 
   
 

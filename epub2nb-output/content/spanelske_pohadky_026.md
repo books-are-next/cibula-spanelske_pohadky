@@ -1,8 +1,7 @@
 ---
+title: "Zázračné hory z\_ostrova Mallorky"
 contentType: prose
 ---
-
-Zázračné hory z ostrova Mallorky
 
   
 

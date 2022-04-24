@@ -1,0 +1,850 @@
+{
+  "author": "Václav Cibula",
+  "contenttype": "prose",
+  "identifier": "cibula-spanelske-pohadky-c24bf1c",
+  "isbn": " 2-7000-1158-9, 978‑80‑274‑1932‑6, 978‑80‑274‑1933‑3, 978‑80‑274‑1934‑0",
+  "languagecode": "cs",
+  "modified": "2021-11-10T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "MKP",
+  "title": "Španělské pohádky",
+  "revision": "c24bf1c",
+  "generatedAt": {
+    "date": "Sun Apr 24 2022 21:20:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650835244731
+  },
+  "documents": [
+    {
+      "title": "Španělské pohádky",
+      "file": "spanelske_pohadky_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "spanelske_pohadky_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádečky • Španělské pohádky",
+      "file": "spanelske_pohadky_005.html",
+      "words": 1203,
+      "chars": 6858,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 1,
+      "prev": "spanelske_pohadky_002.html",
+      "next": "spanelske_pohadky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohádečky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hádanka • Španělské pohádky",
+      "file": "spanelske_pohadky_006.html",
+      "words": 772,
+      "chars": 4423,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 2,
+      "prev": "spanelske_pohadky_005.html",
+      "next": "spanelske_pohadky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hádanka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři bratři z Galicie • Španělské pohádky",
+      "file": "spanelske_pohadky_007.html",
+      "words": 510,
+      "chars": 3006,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 3,
+      "prev": "spanelske_pohadky_006.html",
+      "next": "spanelske_pohadky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tři bratři z Galicie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejsilnější kniha světa • Španělské pohádky",
+      "file": "spanelske_pohadky_008.html",
+      "words": 1118,
+      "chars": 6518,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 4,
+      "prev": "spanelske_pohadky_007.html",
+      "next": "spanelske_pohadky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejsilnější kniha světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O nespokojené Franciskitě • Španělské pohádky",
+      "file": "spanelske_pohadky_009.html",
+      "words": 716,
+      "chars": 4277,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 5,
+      "prev": "spanelske_pohadky_008.html",
+      "next": "spanelske_pohadky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O nespokojené Franciskitě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zlatý kočár • Španělské pohádky",
+      "file": "spanelske_pohadky_010.html",
+      "words": 760,
+      "chars": 4400,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 6,
+      "prev": "spanelske_pohadky_009.html",
+      "next": "spanelske_pohadky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zlatý kočár",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Paní Bída • Španělské pohádky",
+      "file": "spanelske_pohadky_011.html",
+      "words": 618,
+      "chars": 3392,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 7,
+      "prev": "spanelske_pohadky_010.html",
+      "next": "spanelske_pohadky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Paní Bída",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Půlkohoutek • Španělské pohádky",
+      "file": "spanelske_pohadky_012.html",
+      "words": 1506,
+      "chars": 8710,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 8,
+      "prev": "spanelske_pohadky_011.html",
+      "next": "spanelske_pohadky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Půlkohoutek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O myších, kterým chutnalo železo • Španělské pohádky",
+      "file": "spanelske_pohadky_013.html",
+      "words": 778,
+      "chars": 4237,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 9,
+      "prev": "spanelske_pohadky_012.html",
+      "next": "spanelske_pohadky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O myších, kterým chutnalo železo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co je na světě nejvzácnější • Španělské pohádky",
+      "file": "spanelske_pohadky_014.html",
+      "words": 1292,
+      "chars": 7620,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 10,
+      "prev": "spanelske_pohadky_013.html",
+      "next": "spanelske_pohadky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co je na světě nejvzácnější",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Neposlušná manželka • Španělské pohádky",
+      "file": "spanelske_pohadky_015.html",
+      "words": 1375,
+      "chars": 7368,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 11,
+      "prev": "spanelske_pohadky_014.html",
+      "next": "spanelske_pohadky_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Neposlušná manželka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak se tři bratři tahali o přikrývku • Španělské pohádky",
+      "file": "spanelske_pohadky_016.html",
+      "words": 1309,
+      "chars": 7566,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 12,
+      "prev": "spanelske_pohadky_015.html",
+      "next": "spanelske_pohadky_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak se tři bratři tahali o přikrývku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O ženě, která nechtěla jíst se svým mužem • Španělské pohádky",
+      "file": "spanelske_pohadky_017.html",
+      "words": 1177,
+      "chars": 6528,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 13,
+      "prev": "spanelske_pohadky_016.html",
+      "next": "spanelske_pohadky_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O ženě, která nechtěla jíst se svým mužem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo je šťastnější • Španělské pohádky",
+      "file": "spanelske_pohadky_018.html",
+      "words": 863,
+      "chars": 4751,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 14,
+      "prev": "spanelske_pohadky_017.html",
+      "next": "spanelske_pohadky_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo je šťastnější",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zázračná flétna • Španělské pohádky",
+      "file": "spanelske_pohadky_019.html",
+      "words": 1459,
+      "chars": 8469,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 15,
+      "prev": "spanelske_pohadky_018.html",
+      "next": "spanelske_pohadky_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zázračná flétna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tajemství • Španělské pohádky",
+      "file": "spanelske_pohadky_020.html",
+      "words": 718,
+      "chars": 4003,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 16,
+      "prev": "spanelske_pohadky_019.html",
+      "next": "spanelske_pohadky_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tajemství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sázka paní Štěstěny • Španělské pohádky",
+      "file": "spanelske_pohadky_021.html",
+      "words": 1130,
+      "chars": 6405,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 17,
+      "prev": "spanelske_pohadky_020.html",
+      "next": "spanelske_pohadky_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sázka paní Štěstěny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pomluva • Španělské pohádky",
+      "file": "spanelske_pohadky_022.html",
+      "words": 399,
+      "chars": 2234,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 18,
+      "prev": "spanelske_pohadky_021.html",
+      "next": "spanelske_pohadky_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pomluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O hloupém muži • Španělské pohádky",
+      "file": "spanelske_pohadky_023.html",
+      "words": 1055,
+      "chars": 5764,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 19,
+      "prev": "spanelske_pohadky_022.html",
+      "next": "spanelske_pohadky_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O hloupém muži",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lékař a Smrt • Španělské pohádky",
+      "file": "spanelske_pohadky_024.html",
+      "words": 541,
+      "chars": 3100,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 20,
+      "prev": "spanelske_pohadky_023.html",
+      "next": "spanelske_pohadky_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lékař a Smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O nahém králi • Španělské pohádky",
+      "file": "spanelske_pohadky_025.html",
+      "words": 1427,
+      "chars": 8148,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 21,
+      "prev": "spanelske_pohadky_024.html",
+      "next": "spanelske_pohadky_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O nahém králi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zázračné hory z ostrova Mallorky • Španělské pohádky",
+      "file": "spanelske_pohadky_026.html",
+      "words": 903,
+      "chars": 5048,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 22,
+      "prev": "spanelske_pohadky_025.html",
+      "next": "spanelske_pohadky_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zázračné hory z ostrova Mallorky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žabí panenka • Španělské pohádky",
+      "file": "spanelske_pohadky_027.html",
+      "words": 1760,
+      "chars": 9891,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 23,
+      "prev": "spanelske_pohadky_026.html",
+      "next": "spanelske_pohadky_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žabí panenka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O královském rouchu • Španělské pohádky",
+      "file": "spanelske_pohadky_028.html",
+      "words": 968,
+      "chars": 5231,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 24,
+      "prev": "spanelske_pohadky_027.html",
+      "next": "spanelske_pohadky_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O královském rouchu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O napravení zlostné ženy • Španělské pohádky",
+      "file": "spanelske_pohadky_029.html",
+      "words": 1217,
+      "chars": 6803,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 25,
+      "prev": "spanelske_pohadky_028.html",
+      "next": "spanelske_pohadky_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O napravení zlostné ženy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Voják a princezna • Španělské pohádky",
+      "file": "spanelske_pohadky_030.html",
+      "words": 2414,
+      "chars": 13891,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 26,
+      "prev": "spanelske_pohadky_029.html",
+      "next": "spanelske_pohadky_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Voják a princezna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři dary • Španělské pohádky",
+      "file": "spanelske_pohadky_031.html",
+      "words": 1986,
+      "chars": 11006,
+      "ideas": 122,
+      "role": "chapter",
+      "order": 27,
+      "prev": "spanelske_pohadky_030.html",
+      "next": "spanelske_pohadky_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tři dary",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři karafiáty • Španělské pohádky",
+      "file": "spanelske_pohadky_032.html",
+      "words": 2348,
+      "chars": 13216,
+      "ideas": 115,
+      "role": "chapter",
+      "order": 28,
+      "prev": "spanelske_pohadky_031.html",
+      "next": "spanelske_pohadky_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tři karafiáty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Juan a zlatý prsten • Španělské pohádky",
+      "file": "spanelske_pohadky_033.html",
+      "words": 3108,
+      "chars": 17466,
+      "ideas": 165,
+      "role": "chapter",
+      "order": 29,
+      "prev": "spanelske_pohadky_032.html",
+      "next": "spanelske_pohadky_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Juan a zlatý prsten",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pasačka a vlk • Španělské pohádky",
+      "file": "spanelske_pohadky_034.html",
+      "words": 2027,
+      "chars": 11506,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 30,
+      "prev": "spanelske_pohadky_033.html",
+      "next": "spanelske_pohadky_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pasačka a vlk",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Opice a jabloň • Španělské pohádky",
+      "file": "spanelske_pohadky_035.html",
+      "words": 755,
+      "chars": 4721,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 31,
+      "prev": "spanelske_pohadky_034.html",
+      "next": "spanelske_pohadky_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Opice a jabloň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rybář a delfín • Španělské pohádky",
+      "file": "spanelske_pohadky_036.html",
+      "words": 4984,
+      "chars": 28699,
+      "ideas": 206,
+      "role": "chapter",
+      "order": 32,
+      "prev": "spanelske_pohadky_035.html",
+      "next": "spanelske_pohadky_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rybář a delfín",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílý papoušek • Španělské pohádky",
+      "file": "spanelske_pohadky_037.html",
+      "words": 2754,
+      "chars": 15380,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 33,
+      "prev": "spanelske_pohadky_036.html",
+      "next": "spanelske_pohadky_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bílý papoušek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Katalineta a velryba • Španělské pohádky",
+      "file": "spanelske_pohadky_038.html",
+      "words": 2714,
+      "chars": 15449,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 34,
+      "prev": "spanelske_pohadky_037.html",
+      "next": "spanelske_pohadky_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Katalineta a velryba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čaroděj Palermo • Španělské pohádky",
+      "file": "spanelske_pohadky_039.html",
+      "words": 5006,
+      "chars": 28997,
+      "ideas": 247,
+      "role": "chapter",
+      "order": 35,
+      "prev": "spanelske_pohadky_038.html",
+      "next": "spanelske_pohadky_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čaroděj Palermo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvakrátjed a princezna • Španělské pohádky",
+      "file": "spanelske_pohadky_040.html",
+      "words": 1599,
+      "chars": 8744,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 36,
+      "prev": "spanelske_pohadky_039.html",
+      "next": "spanelske_pohadky_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvakrátjed a princezna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádka o kouzelné píšťalce • Španělské pohádky",
+      "file": "spanelske_pohadky_041.html",
+      "words": 99,
+      "chars": 645,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 37,
+      "prev": "spanelske_pohadky_040.html",
+      "next": "spanelske_pohadky_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohádka o kouzelné píšťalce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámka na závěr • Španělské pohádky",
+      "file": "spanelske_pohadky_042.html",
+      "words": 1087,
+      "chars": 7119,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 38,
+      "prev": "spanelske_pohadky_041.html",
+      "next": "spanelske_pohadky_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámka na závěr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prameny • Španělské pohádky",
+      "file": "spanelske_pohadky_043.html",
+      "words": 306,
+      "chars": 2122,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 39,
+      "prev": "spanelske_pohadky_042.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prameny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Španělské pohádky",
+      "file": "colophon.html",
+      "words": 149,
+      "chars": 1000,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
+      "prev": "spanelske_pohadky_043.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 56915,
+      "chars": 324744,
+      "ideas": 2885
+    },
+    "chapters": {
+      "words": 56761,
+      "chars": 323711,
+      "ideas": 2859
+    }
+  }
+}

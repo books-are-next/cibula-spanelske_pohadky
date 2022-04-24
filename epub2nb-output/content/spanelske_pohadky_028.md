@@ -1,8 +1,7 @@
 ---
+title: "O\_královském rouchu"
 contentType: prose
 ---
-
-O královském rouchu
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: "Dvakrátjed a\_princezna"
 contentType: prose
 ---
-
-Dvakrátjed a princezna
 
   
 

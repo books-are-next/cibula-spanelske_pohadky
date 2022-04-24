@@ -1,8 +1,7 @@
 ---
+title: Zlatý kočár
 contentType: prose
 ---
-
-Zlatý kočár
 
   
 

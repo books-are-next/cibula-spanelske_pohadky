@@ -1,8 +1,7 @@
 ---
+title: "Pohádka o\_kouzelné píšťalce"
 contentType: prose
 ---
-
-Pohádka o kouzelné píšťalce
 
   
 

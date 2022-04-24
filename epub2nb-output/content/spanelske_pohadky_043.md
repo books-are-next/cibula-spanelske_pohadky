@@ -1,8 +1,7 @@
 ---
+title: Prameny
 contentType: prose
 ---
-
-Prameny
 
 A. M. Alcover, Cuentos maravillosos recogidos en Mallorca, Valencia 1914
 

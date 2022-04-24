@@ -1,8 +1,7 @@
 ---
+title: "O\_nahém králi"
 contentType: prose
 ---
-
-O nahém králi
 
   
 

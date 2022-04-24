@@ -1,8 +1,7 @@
 ---
+title: "O\_myších, kterým chutnalo železo"
 contentType: prose
 ---
-
-O myších, kterým chutnalo železo
 
   
 
