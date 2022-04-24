@@ -1,0 +1,397 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Španělské pohádky",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Václav Cibula",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-11-10T00:00:00.000Z",
+    "published": "2021-11-05T06:47:13.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/spanelske_pohadky_044.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_spanelske_pohadky.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Pohádečky",
+      "children": [
+        {
+          "title": "Pán a hlupák",
+          "href": "OEBPS/Text/spanelske_pohadky_005.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Pán a blázen",
+          "href": "OEBPS/Text/spanelske_pohadky_005.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Pán a chytrák",
+          "href": "OEBPS/Text/spanelske_pohadky_005.xhtml#_idParaDest-4"
+        }
+      ],
+      "href": "OEBPS/Text/spanelske_pohadky_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Hádanka",
+      "href": "OEBPS/Text/spanelske_pohadky_006.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "Tři bratři z Galicie",
+      "href": "OEBPS/Text/spanelske_pohadky_007.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "Nejsilnější kniha světa",
+      "href": "OEBPS/Text/spanelske_pohadky_008.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "O nespokojené Franciskitě",
+      "href": "OEBPS/Text/spanelske_pohadky_009.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "Zlatý kočár",
+      "href": "OEBPS/Text/spanelske_pohadky_010.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "Paní Bída",
+      "href": "OEBPS/Text/spanelske_pohadky_011.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "Půlkohoutek",
+      "href": "OEBPS/Text/spanelske_pohadky_012.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "O myších, kterým chutnalo železo",
+      "href": "OEBPS/Text/spanelske_pohadky_013.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "Co je na světě nejvzácnější",
+      "href": "OEBPS/Text/spanelske_pohadky_014.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "Neposlušná manželka",
+      "href": "OEBPS/Text/spanelske_pohadky_015.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "Jak se tři bratři tahali o přikrývku",
+      "href": "OEBPS/Text/spanelske_pohadky_016.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "O ženě, která nechtěla jíst se svým mužem",
+      "href": "OEBPS/Text/spanelske_pohadky_017.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "Kdo je šťastnější",
+      "href": "OEBPS/Text/spanelske_pohadky_018.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "Zázračná flétna",
+      "href": "OEBPS/Text/spanelske_pohadky_019.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "Tajemství",
+      "href": "OEBPS/Text/spanelske_pohadky_020.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "Sázka paní Štěstěny",
+      "href": "OEBPS/Text/spanelske_pohadky_021.xhtml#_idParaDest-20"
+    },
+    {
+      "title": "Pomluva",
+      "href": "OEBPS/Text/spanelske_pohadky_022.xhtml#_idParaDest-21"
+    },
+    {
+      "title": "O hloupém muži",
+      "href": "OEBPS/Text/spanelske_pohadky_023.xhtml#_idParaDest-22"
+    },
+    {
+      "title": "Lékař a Smrt",
+      "href": "OEBPS/Text/spanelske_pohadky_024.xhtml#_idParaDest-23"
+    },
+    {
+      "title": "O nahém králi",
+      "href": "OEBPS/Text/spanelske_pohadky_025.xhtml#_idParaDest-24"
+    },
+    {
+      "title": "Zázračné hory z ostrova Mallorky",
+      "href": "OEBPS/Text/spanelske_pohadky_026.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "Žabí panenka",
+      "href": "OEBPS/Text/spanelske_pohadky_027.xhtml#_idParaDest-26"
+    },
+    {
+      "title": "O královském rouchu",
+      "href": "OEBPS/Text/spanelske_pohadky_028.xhtml#_idParaDest-27"
+    },
+    {
+      "title": "O napravení zlostné ženy",
+      "href": "OEBPS/Text/spanelske_pohadky_029.xhtml#_idParaDest-28"
+    },
+    {
+      "title": "Voják a princezna",
+      "href": "OEBPS/Text/spanelske_pohadky_030.xhtml#_idParaDest-29"
+    },
+    {
+      "title": "Tři dary",
+      "href": "OEBPS/Text/spanelske_pohadky_031.xhtml#_idParaDest-30"
+    },
+    {
+      "title": "Tři karafiáty",
+      "href": "OEBPS/Text/spanelske_pohadky_032.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "Juan a zlatý prsten",
+      "href": "OEBPS/Text/spanelske_pohadky_033.xhtml#_idParaDest-32"
+    },
+    {
+      "title": "Pasačka a vlk",
+      "href": "OEBPS/Text/spanelske_pohadky_034.xhtml#_idParaDest-33"
+    },
+    {
+      "title": "Opice a jabloň",
+      "href": "OEBPS/Text/spanelske_pohadky_035.xhtml#_idParaDest-34"
+    },
+    {
+      "title": "Rybář a delfín",
+      "href": "OEBPS/Text/spanelske_pohadky_036.xhtml#_idParaDest-35"
+    },
+    {
+      "title": "Bílý papoušek",
+      "href": "OEBPS/Text/spanelske_pohadky_037.xhtml#_idParaDest-36"
+    },
+    {
+      "title": "Katalineta a velryba",
+      "href": "OEBPS/Text/spanelske_pohadky_038.xhtml#_idParaDest-37"
+    },
+    {
+      "title": "Čaroděj Palermo",
+      "href": "OEBPS/Text/spanelske_pohadky_039.xhtml#_idParaDest-38"
+    },
+    {
+      "title": "Dvakrátjed a princezna",
+      "href": "OEBPS/Text/spanelske_pohadky_040.xhtml#_idParaDest-39"
+    },
+    {
+      "title": "Pohádka o kouzelné píšťalce",
+      "href": "OEBPS/Text/spanelske_pohadky_041.xhtml#_idParaDest-40"
+    },
+    {
+      "title": "Poznámka na závěr",
+      "href": "OEBPS/Text/spanelske_pohadky_042.xhtml#_idParaDest-41"
+    },
+    {
+      "title": "Prameny",
+      "href": "OEBPS/Text/spanelske_pohadky_043.xhtml#_idParaDest-42"
+    }
+  ]
+}

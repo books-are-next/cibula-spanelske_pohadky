@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Španělské pohádky</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Pohádečky</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_005.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Pán a hlupák</text>
+        </navLabel>
+        <content src="Text/spanelske_pohadky_005.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Pán a blázen</text>
+        </navLabel>
+        <content src="Text/spanelske_pohadky_005.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Pán a chytrák</text>
+        </navLabel>
+        <content src="Text/spanelske_pohadky_005.xhtml#_idParaDest-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Hádanka</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_006.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Tři bratři z Galicie</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_007.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Nejsilnější kniha světa</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_008.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>O nespokojené Franciskitě</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_009.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Zlatý kočár</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_010.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Paní Bída</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_011.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Půlkohoutek</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_012.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>O myších, kterým chutnalo železo</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_013.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Co je na světě nejvzácnější</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_014.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Neposlušná manželka</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_015.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Jak se tři bratři tahali o přikrývku</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_016.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>O ženě, která nechtěla jíst se svým mužem</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_017.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Kdo je šťastnější</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_018.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Zázračná flétna</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_019.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Tajemství</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_020.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Sázka paní Štěstěny</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_021.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Pomluva</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_022.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>O hloupém muži</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_023.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Lékař a Smrt</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_024.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>O nahém králi</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_025.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Zázračné hory z ostrova Mallorky</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_026.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Žabí panenka</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_027.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>O královském rouchu</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_028.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>O napravení zlostné ženy</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_029.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Voják a princezna</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_030.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Tři dary</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_031.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Tři karafiáty</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_032.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Juan a zlatý prsten</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_033.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Pasačka a vlk</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_034.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Opice a jabloň</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_035.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Rybář a delfín</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_036.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Bílý papoušek</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_037.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Katalineta a velryba</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_038.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Čaroděj Palermo</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_039.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Dvakrátjed a princezna</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_040.xhtml#_idParaDest-39"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Pohádka o kouzelné píšťalce</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_041.xhtml#_idParaDest-40"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Poznámka na závěr</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_042.xhtml#_idParaDest-41"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Prameny</text>
+      </navLabel>
+      <content src="Text/spanelske_pohadky_043.xhtml#_idParaDest-42"/>
+    </navPoint>
+  </navMap>
+</ncx>
