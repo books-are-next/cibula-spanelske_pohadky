@@ -1,17 +1,17 @@
 {
   "author": "Václav Cibula",
   "contenttype": "prose",
-  "identifier": "cibula-spanelske-pohadky-c24bf1c",
+  "identifier": "cibula-spanelske-pohadky-1617a51",
   "isbn": " 2-7000-1158-9, 978‑80‑274‑1932‑6, 978‑80‑274‑1933‑3, 978‑80‑274‑1934‑0",
   "languagecode": "cs",
   "modified": "2021-11-10T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "MKP",
   "title": "Španělské pohádky",
-  "revision": "c24bf1c",
+  "revision": "1617a51",
   "generatedAt": {
-    "date": "Sun Apr 24 2022 21:20:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650835244731
+    "date": "Sun May 01 2022 23:01:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651446115495
   },
   "documents": [
     {
@@ -50,7 +50,29 @@
           "level": 1,
           "name": "Pohádečky",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Pán a hlupák",
+              "id": "pán-ahlupák",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Pán a blázen",
+              "id": "pán-ablázen",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Pán a chytrák",
+              "id": "pán-achytrák",
+              "children": []
+            }
+          ]
         }
       ]
     },
