@@ -14,7 +14,7 @@ meta:
   isbn: ' 2-7000-1158-9, 978‑80‑274‑1932‑6, 978‑80‑274‑1933‑3, 978‑80‑274‑1934‑0'
   publisherShort: MKP
 readingOrder:
-  - spanelske_pohadky_002.html
+  - promo.html
   - spanelske_pohadky_005.html
   - spanelske_pohadky_006.html
   - spanelske_pohadky_007.html

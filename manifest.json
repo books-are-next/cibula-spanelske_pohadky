@@ -1,22 +1,65 @@
 {
-  "author": "Václav Cibula",
-  "contenttype": "prose",
-  "identifier": "cibula-spanelske-pohadky-1617a51",
-  "isbn": " 2-7000-1158-9, 978‑80‑274‑1932‑6, 978‑80‑274‑1933‑3, 978‑80‑274‑1934‑0",
-  "languagecode": "cs",
-  "modified": "2021-11-10T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "MKP",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Španělské pohádky",
-  "revision": "1617a51",
+  "author": "Václav Cibula",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "cibula-spanelske-pohadky-ceaa8fc",
+  "revision": "ceaa8fc",
+  "readingOrder": [
+    "promo.html",
+    "spanelske_pohadky_005.html",
+    "spanelske_pohadky_006.html",
+    "spanelske_pohadky_007.html",
+    "spanelske_pohadky_008.html",
+    "spanelske_pohadky_009.html",
+    "spanelske_pohadky_010.html",
+    "spanelske_pohadky_011.html",
+    "spanelske_pohadky_012.html",
+    "spanelske_pohadky_013.html",
+    "spanelske_pohadky_014.html",
+    "spanelske_pohadky_015.html",
+    "spanelske_pohadky_016.html",
+    "spanelske_pohadky_017.html",
+    "spanelske_pohadky_018.html",
+    "spanelske_pohadky_019.html",
+    "spanelske_pohadky_020.html",
+    "spanelske_pohadky_021.html",
+    "spanelske_pohadky_022.html",
+    "spanelske_pohadky_023.html",
+    "spanelske_pohadky_024.html",
+    "spanelske_pohadky_025.html",
+    "spanelske_pohadky_026.html",
+    "spanelske_pohadky_027.html",
+    "spanelske_pohadky_028.html",
+    "spanelske_pohadky_029.html",
+    "spanelske_pohadky_030.html",
+    "spanelske_pohadky_031.html",
+    "spanelske_pohadky_032.html",
+    "spanelske_pohadky_033.html",
+    "spanelske_pohadky_034.html",
+    "spanelske_pohadky_035.html",
+    "spanelske_pohadky_036.html",
+    "spanelske_pohadky_037.html",
+    "spanelske_pohadky_038.html",
+    "spanelske_pohadky_039.html",
+    "spanelske_pohadky_040.html",
+    "spanelske_pohadky_041.html",
+    "spanelske_pohadky_042.html",
+    "spanelske_pohadky_043.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun May 01 2022 23:01:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651446115495
+    "date": "Thu May 12 2022 10:43:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352235853
   },
   "documents": [
     {
-      "title": "Španělské pohádky",
-      "file": "spanelske_pohadky_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +67,17 @@
       "order": 0,
       "prev": null,
       "next": "spanelske_pohadky_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Pohádečky • Španělské pohádky",
+      "title": "Pohádečky",
       "file": "spanelske_pohadky_005.html",
       "words": 1203,
       "chars": 6858,
       "ideas": 85,
       "role": "chapter",
       "order": 1,
-      "prev": "spanelske_pohadky_002.html",
+      "prev": "promo.html",
       "next": "spanelske_pohadky_006.html",
       "toc": [
         {
@@ -77,7 +112,7 @@
       ]
     },
     {
-      "title": "Hádanka • Španělské pohádky",
+      "title": "Hádanka",
       "file": "spanelske_pohadky_006.html",
       "words": 772,
       "chars": 4423,
@@ -97,7 +132,7 @@
       ]
     },
     {
-      "title": "Tři bratři z Galicie • Španělské pohádky",
+      "title": "Tři bratři z Galicie",
       "file": "spanelske_pohadky_007.html",
       "words": 510,
       "chars": 3006,
@@ -117,7 +152,7 @@
       ]
     },
     {
-      "title": "Nejsilnější kniha světa • Španělské pohádky",
+      "title": "Nejsilnější kniha světa",
       "file": "spanelske_pohadky_008.html",
       "words": 1118,
       "chars": 6518,
@@ -137,7 +172,7 @@
       ]
     },
     {
-      "title": "O nespokojené Franciskitě • Španělské pohádky",
+      "title": "O nespokojené Franciskitě",
       "file": "spanelske_pohadky_009.html",
       "words": 716,
       "chars": 4277,
@@ -157,7 +192,7 @@
       ]
     },
     {
-      "title": "Zlatý kočár • Španělské pohádky",
+      "title": "Zlatý kočár",
       "file": "spanelske_pohadky_010.html",
       "words": 760,
       "chars": 4400,
@@ -177,7 +212,7 @@
       ]
     },
     {
-      "title": "Paní Bída • Španělské pohádky",
+      "title": "Paní Bída",
       "file": "spanelske_pohadky_011.html",
       "words": 618,
       "chars": 3392,
@@ -197,7 +232,7 @@
       ]
     },
     {
-      "title": "Půlkohoutek • Španělské pohádky",
+      "title": "Půlkohoutek",
       "file": "spanelske_pohadky_012.html",
       "words": 1506,
       "chars": 8710,
@@ -217,7 +252,7 @@
       ]
     },
     {
-      "title": "O myších, kterým chutnalo železo • Španělské pohádky",
+      "title": "O myších, kterým chutnalo železo",
       "file": "spanelske_pohadky_013.html",
       "words": 778,
       "chars": 4237,
@@ -237,7 +272,7 @@
       ]
     },
     {
-      "title": "Co je na světě nejvzácnější • Španělské pohádky",
+      "title": "Co je na světě nejvzácnější",
       "file": "spanelske_pohadky_014.html",
       "words": 1292,
       "chars": 7620,
@@ -257,7 +292,7 @@
       ]
     },
     {
-      "title": "Neposlušná manželka • Španělské pohádky",
+      "title": "Neposlušná manželka",
       "file": "spanelske_pohadky_015.html",
       "words": 1375,
       "chars": 7368,
@@ -277,7 +312,7 @@
       ]
     },
     {
-      "title": "Jak se tři bratři tahali o přikrývku • Španělské pohádky",
+      "title": "Jak se tři bratři tahali o přikrývku",
       "file": "spanelske_pohadky_016.html",
       "words": 1309,
       "chars": 7566,
@@ -297,7 +332,7 @@
       ]
     },
     {
-      "title": "O ženě, která nechtěla jíst se svým mužem • Španělské pohádky",
+      "title": "O ženě, která nechtěla jíst se svým mužem",
       "file": "spanelske_pohadky_017.html",
       "words": 1177,
       "chars": 6528,
@@ -317,7 +352,7 @@
       ]
     },
     {
-      "title": "Kdo je šťastnější • Španělské pohádky",
+      "title": "Kdo je šťastnější",
       "file": "spanelske_pohadky_018.html",
       "words": 863,
       "chars": 4751,
@@ -337,7 +372,7 @@
       ]
     },
     {
-      "title": "Zázračná flétna • Španělské pohádky",
+      "title": "Zázračná flétna",
       "file": "spanelske_pohadky_019.html",
       "words": 1459,
       "chars": 8469,
@@ -357,7 +392,7 @@
       ]
     },
     {
-      "title": "Tajemství • Španělské pohádky",
+      "title": "Tajemství",
       "file": "spanelske_pohadky_020.html",
       "words": 718,
       "chars": 4003,
@@ -377,7 +412,7 @@
       ]
     },
     {
-      "title": "Sázka paní Štěstěny • Španělské pohádky",
+      "title": "Sázka paní Štěstěny",
       "file": "spanelske_pohadky_021.html",
       "words": 1130,
       "chars": 6405,
@@ -397,7 +432,7 @@
       ]
     },
     {
-      "title": "Pomluva • Španělské pohádky",
+      "title": "Pomluva",
       "file": "spanelske_pohadky_022.html",
       "words": 399,
       "chars": 2234,
@@ -417,7 +452,7 @@
       ]
     },
     {
-      "title": "O hloupém muži • Španělské pohádky",
+      "title": "O hloupém muži",
       "file": "spanelske_pohadky_023.html",
       "words": 1055,
       "chars": 5764,
@@ -437,7 +472,7 @@
       ]
     },
     {
-      "title": "Lékař a Smrt • Španělské pohádky",
+      "title": "Lékař a Smrt",
       "file": "spanelske_pohadky_024.html",
       "words": 541,
       "chars": 3100,
@@ -457,7 +492,7 @@
       ]
     },
     {
-      "title": "O nahém králi • Španělské pohádky",
+      "title": "O nahém králi",
       "file": "spanelske_pohadky_025.html",
       "words": 1427,
       "chars": 8148,
@@ -477,7 +512,7 @@
       ]
     },
     {
-      "title": "Zázračné hory z ostrova Mallorky • Španělské pohádky",
+      "title": "Zázračné hory z ostrova Mallorky",
       "file": "spanelske_pohadky_026.html",
       "words": 903,
       "chars": 5048,
@@ -497,7 +532,7 @@
       ]
     },
     {
-      "title": "Žabí panenka • Španělské pohádky",
+      "title": "Žabí panenka",
       "file": "spanelske_pohadky_027.html",
       "words": 1760,
       "chars": 9891,
@@ -517,7 +552,7 @@
       ]
     },
     {
-      "title": "O královském rouchu • Španělské pohádky",
+      "title": "O královském rouchu",
       "file": "spanelske_pohadky_028.html",
       "words": 968,
       "chars": 5231,
@@ -537,7 +572,7 @@
       ]
     },
     {
-      "title": "O napravení zlostné ženy • Španělské pohádky",
+      "title": "O napravení zlostné ženy",
       "file": "spanelske_pohadky_029.html",
       "words": 1217,
       "chars": 6803,
@@ -557,7 +592,7 @@
       ]
     },
     {
-      "title": "Voják a princezna • Španělské pohádky",
+      "title": "Voják a princezna",
       "file": "spanelske_pohadky_030.html",
       "words": 2414,
       "chars": 13891,
@@ -577,7 +612,7 @@
       ]
     },
     {
-      "title": "Tři dary • Španělské pohádky",
+      "title": "Tři dary",
       "file": "spanelske_pohadky_031.html",
       "words": 1986,
       "chars": 11006,
@@ -597,7 +632,7 @@
       ]
     },
     {
-      "title": "Tři karafiáty • Španělské pohádky",
+      "title": "Tři karafiáty",
       "file": "spanelske_pohadky_032.html",
       "words": 2348,
       "chars": 13216,
@@ -617,7 +652,7 @@
       ]
     },
     {
-      "title": "Juan a zlatý prsten • Španělské pohádky",
+      "title": "Juan a zlatý prsten",
       "file": "spanelske_pohadky_033.html",
       "words": 3108,
       "chars": 17466,
@@ -637,7 +672,7 @@
       ]
     },
     {
-      "title": "Pasačka a vlk • Španělské pohádky",
+      "title": "Pasačka a vlk",
       "file": "spanelske_pohadky_034.html",
       "words": 2027,
       "chars": 11506,
@@ -657,7 +692,7 @@
       ]
     },
     {
-      "title": "Opice a jabloň • Španělské pohádky",
+      "title": "Opice a jabloň",
       "file": "spanelske_pohadky_035.html",
       "words": 755,
       "chars": 4721,
@@ -677,7 +712,7 @@
       ]
     },
     {
-      "title": "Rybář a delfín • Španělské pohádky",
+      "title": "Rybář a delfín",
       "file": "spanelske_pohadky_036.html",
       "words": 4984,
       "chars": 28699,
@@ -697,7 +732,7 @@
       ]
     },
     {
-      "title": "Bílý papoušek • Španělské pohádky",
+      "title": "Bílý papoušek",
       "file": "spanelske_pohadky_037.html",
       "words": 2754,
       "chars": 15380,
@@ -717,7 +752,7 @@
       ]
     },
     {
-      "title": "Katalineta a velryba • Španělské pohádky",
+      "title": "Katalineta a velryba",
       "file": "spanelske_pohadky_038.html",
       "words": 2714,
       "chars": 15449,
@@ -737,7 +772,7 @@
       ]
     },
     {
-      "title": "Čaroděj Palermo • Španělské pohádky",
+      "title": "Čaroděj Palermo",
       "file": "spanelske_pohadky_039.html",
       "words": 5006,
       "chars": 28997,
@@ -757,7 +792,7 @@
       ]
     },
     {
-      "title": "Dvakrátjed a princezna • Španělské pohádky",
+      "title": "Dvakrátjed a princezna",
       "file": "spanelske_pohadky_040.html",
       "words": 1599,
       "chars": 8744,
@@ -777,7 +812,7 @@
       ]
     },
     {
-      "title": "Pohádka o kouzelné píšťalce • Španělské pohádky",
+      "title": "Pohádka o kouzelné píšťalce",
       "file": "spanelske_pohadky_041.html",
       "words": 99,
       "chars": 645,
@@ -797,7 +832,7 @@
       ]
     },
     {
-      "title": "Poznámka na závěr • Španělské pohádky",
+      "title": "Poznámka na závěr",
       "file": "spanelske_pohadky_042.html",
       "words": 1087,
       "chars": 7119,
@@ -817,7 +852,7 @@
       ]
     },
     {
-      "title": "Prameny • Španělské pohádky",
+      "title": "Prameny",
       "file": "spanelske_pohadky_043.html",
       "words": 306,
       "chars": 2122,
@@ -837,11 +872,11 @@
       ]
     },
     {
-      "title": "Tiráž • Španělské pohádky",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 149,
-      "chars": 1000,
-      "ideas": 23,
+      "words": 131,
+      "chars": 858,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "spanelske_pohadky_043.html",
@@ -859,9 +894,9 @@
   ],
   "totals": {
     "all": {
-      "words": 56915,
-      "chars": 324744,
-      "ideas": 2885
+      "words": 56897,
+      "chars": 324602,
+      "ideas": 2880
     },
     "chapters": {
       "words": 56761,
