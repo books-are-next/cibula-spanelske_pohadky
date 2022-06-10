@@ -3,8 +3,6 @@ title: "Pasačka a\_vlk"
 contentType: prose
 ---
 
-  
-
 Byla jednou jedna chudá, chudičká dívka. Otec a matka jí umřeli, když byla ještě docela malá, a tak se musela protloukat životem, jak se dalo. Sloužila u velkých i malých sedláků, chvíli v jedné vesnici, potom v druhé. Někdy pásla ovce, někdy kozy, jindy vepře.
 
 Jednou hlídala vepře na veliké louce u hustého lesa. Vepříci leželi v trávě anebo ryli v bahně u potoka. Všude byl klid, jen ptáci zpívali v povětří. Znenadání se ozval z lesa nářek.

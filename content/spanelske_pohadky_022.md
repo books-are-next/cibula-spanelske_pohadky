@@ -3,8 +3,6 @@ title: Pomluva
 contentType: prose
 ---
 
-  
-
 Před dávnými časy se zamiloval jeden mladík do hodné a krásné dívky. Děvčeti se mladík také líbil, a tak si dohodli den svatby a těšili se, že budou žít spolu.
 
 Ve stejné vesnici však žil jeden nedobrý a nepoctivý mládenec. Jednoho dne potkal dívku a zeptal se jí, zda by si ho chtěla vzít za muže. Dívka se rozhněvala a řekla mu:

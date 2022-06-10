@@ -3,8 +3,6 @@ title: "O\_nespokojené Franciskitě"
 contentType: prose
 ---
 
-  
-
 V jedné vsi žila kdysi dívka jménem Franciskita. Jednou šla do lesa na borové šišky, aby měla čím topit. Kráčela pomalu mezi stromy a žalostně vzdychala. Náhle zvedla hlavu a lekla se. Proti ní stál drobný dědeček s bílými vlasy a s modrýma očima.
 
 „Proč tak vzdycháš, Franciskito?“ zeptal se vlídně. „Trápí tě něco?“

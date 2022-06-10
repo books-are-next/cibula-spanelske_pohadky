@@ -3,8 +3,6 @@ title: "O\_královském rouchu"
 contentType: prose
 ---
 
-  
-
 Byl jednou jeden král a ten měl pěknou dceru. Jednoho dne seděla princezna před zrcadlem a česala se. Znenadání objevila ve vlasech malou vešku.
 
 Přivolala krále a řekla:

@@ -3,8 +3,6 @@ title: Zlatý kočár
 contentType: prose
 ---
 
-  
-
 Byl jednou jeden král a ten si přál mít zlatý kočár. Zavolal svého komořího a řekl mu:
 
 „Můj milý komoří! Už mám všechno, co si král tak veliké země může přát, jenom zlatý kočár mi chybí. A to mě trápí. Musíš najít někoho, kdo by věděl, jak takový kočár získat. Královská pokladna je prázdná a zlata bych v ní nenašel ani na prstýnek. Kdo mi dobře poradí, dostane mou dceru za ženu; kdo špatně, přijde o hlavu.“

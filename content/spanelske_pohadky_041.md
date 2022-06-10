@@ -3,8 +3,6 @@ title: "Pohádka o\_kouzelné píšťalce"
 contentType: prose
 ---
 
-  
-
 „Chcete, abych vám ještě vyprávěl pohádku o kouzelné píšťalce?“
 
 „Ano, chceme!“

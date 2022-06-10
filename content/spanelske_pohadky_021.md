@@ -3,8 +3,6 @@ title: Sázka paní Štěstěny
 contentType: prose
 ---
 
-  
-
 Paní Štěstěna a pan Penězjakoželez se znali už dlouho a vždycky byli dobří přátelé. Jeden bez druhého neudělal ani krok, kde byl on, tam byla i ona. Protože jim bylo spolu tak dobře, rozhodli se, že se vezmou. A bez dlouhého rozmýšlení to také udělali.
 
 Říkalo se o nich, že se mají rádi jako dvě hrdličky, ale kdo je poznal trochu blíž, věděl dobře, že to není pravda. Byla to podivná dvojice. Pan Penězjakoželez bez přestání mamonil a hamonil, shromažďoval zlato, stříbro i vzácné předměty, zkrátka všechno, co mělo nějakou cenu. Však proto dostal své jméno, i když mu lidé říkali také pan Držgrešle, pan Peníze, pan Měšec, a ještě mu dávali tisíc dalších jmen. Byl to pomenší tlouštík, kulatá hlava se mu leskla jako indiánské zlato, na opasku se mu třpytilo mexické stříbro, na krátkých a křivých nožkách měl střevíce z nejjemnější kůže a na nich přezky ze segoviánské mědi.

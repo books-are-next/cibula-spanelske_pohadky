@@ -3,8 +3,6 @@ title: Bílý papoušek
 contentType: prose
 ---
 
-  
-
 Byl jednou jeden venkovský zeman a ten miloval krásnou, ale chudou dívku. A miloval ji tolik, že se s ní oženil.
 
 Nějaký čas po svatbě se však strhla vojna a zeman musel jít bojovat za krále. Loučil se těžko, přetěžko, protože jeho krásná žena právě čekala děťátko. I požádal svého správce, aby o ženu pečoval, a také ho poprosil, aby mu hned poslal zprávu, jakmile se dítě narodí.

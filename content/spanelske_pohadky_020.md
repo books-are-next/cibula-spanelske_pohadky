@@ -3,8 +3,6 @@ title: Tajemství
 contentType: prose
 ---
 
-  
-
 Žili kdysi muž a žena. Žena byla povídavá, neřekla, co nevěděla, a muž se na ni proto často hněval. Nakonec byl raději s kamarády než se ženou a leckdy se s nimi veselil dlouho do noci. Jednou se zase vrátil domů až k ránu. Žena ležela už dávno v posteli, ale nespala; sotva vrzla před chalupou vrátka, vyskočila a začala muži vyčítat, že se vrací tak pozdě.
 
 Muž však položil ukazováček na ústa a řekl:

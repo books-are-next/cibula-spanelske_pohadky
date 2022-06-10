@@ -3,8 +3,6 @@ title: "Lékař a\_Smrt"
 contentType: prose
 ---
 
-  
-
 Byla jednou jedna chudá stará žena a ta měla jediného syna. Když chlapec vyrostl, poslala ho do světa, aby si našel nějakou práci, která by je uživila.
 
 Mladý muž poslechl a šel. Netrvalo dlouho a potkal Slunce.

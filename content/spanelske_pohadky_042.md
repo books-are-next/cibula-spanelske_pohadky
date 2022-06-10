@@ -3,8 +3,6 @@ title: Poznámka na závěr
 contentType: prose
 ---
 
-  
-
 Ne všechny evropské země se mohou pochlubit tak bohatým a košatým slovesným uměním svého lidu jako právě Španělsko. Začneme-li pátrat, odkud čerpali své náměty velcí španělští dramatikové, básníci a romanopisci, jako byli Tirso de Molina, Calderón, Lope de Vega či Cervantes, dostaneme se dříve nebo později k látkám lidových eposů, k lidovým pověstem, rčením a příslovím, k lidovým pohádkám.
 
 Ještě v polovině 19. století prohlásil slavný německý pohádkář Wilhelm Grimm, že nezná ani jedinou španělskou pohádku, a první sbírka skutečně lidových španělských pohádek vychází opravdu až v roce 1859. Ještě v roce 1889 si trpce stěžoval španělský folklorista Hernández de Moreno, že „dosud byla uveřejněna jen nepatrná část velkého pokladu španělských lidových pohádek“.

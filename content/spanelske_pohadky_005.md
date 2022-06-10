@@ -11,8 +11,6 @@ Nejmladší pastevec vstal a přihodil do plamenů náruč suchých větví. Oh
 
 ## Pán a hlupák
 
-  
-
 Do jedné vesnice se kdysi přistěhoval člověk z hor. Neměl rád zbytečné řeči, a tak o něm lidé brzy začali říkat, že je podivín, a o něco později, že je trochu přihlouplý. Nakonec zapomněli i jeho jméno, a kdykoli o něm mluvili, říkali jenom: ten hlupák z hor, a potom už jen hlupák.
 
 Jednou v noci se vplížil do vsi zloděj, vnikl oknem do osamělého domu a ukradl všechno, co mělo nějakou cenu. Nazítří bylo ve vsi veliké pozdvižení. Starosta chodil od chalupy k chalupě a každého se ptal:
@@ -45,11 +43,11 @@ Hlupák se zasmál a zvolal:
 
 „Žádné tušení! Teď vím docela určitě, že to byl nějaký zloděj!“
 
+  
+
 Měsíc vystoupil vysoko nad hory a jeho světlo už nebyla oranžové, ale zelené. Druhý pastevec povstal, hodil do skomírajících plamenů náruč dřeva, posadil se a začal vyprávět:
 
 ## Pán a blázen
-
-  
 
 U nás ve vsi žil také jeden takový člověk z hor. Lidé mu neříkali hlupák, ale blázen, a někdy na něj pokřikovali, že ho potrkalo strakaté tele.
 
@@ -115,11 +113,11 @@ Urozený pán obrátil koně a řekl:
 
 A tryskem se vrátil zpátky do města.
 
+  
+
 Když druhý pastevec domluvil, chvíli bylo ticho. Oheň dohoříval. Měsíc na nebi vystoupil ještě výš a jeho světlo už nebylo oranžové ani zelené, ale modré. Nejstarší pastevec vstal a hodil do řeřavého dřeva náruč suchých větví. Plameny vyšlehly, dřevo zapraskalo a pastevec začal vyprávět:
 
 ## Pán a chytrák
-
-  
 
 Také do naší vesnice se jednou přistěhoval člověk z hor. Lidé ho přijali mezi sebe, i když byl trochu jiný než oni. Avšak netvrdili o něm, že je hlupák ani že je blázen, ale říkali, že má za ušima a že je to chytrák nade všechny chytráky.
 
@@ -174,5 +172,7 @@ Netrvalo dlouho a sešli se všichni lidé z vesnice. Ty, co už nemohli chodi
 Nato vystoupil muž z úkrytu a zvolal:
 
 „Teď jste tady všichni, a tak vám tedy říkám: ten osel stál padesát reálů!“
+
+  
 
 Když nejstarší pastevec skončil, měsíc stál vysoko na obloze, svítil stříbrně a hvězdy začínaly blednout. A ti tři se nad dohaslým ohněm domluvili, že se narodili ve stejné vesnici.

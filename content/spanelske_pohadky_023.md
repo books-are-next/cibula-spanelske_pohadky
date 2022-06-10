@@ -3,8 +3,6 @@ title: "O\_hloupém muži"
 contentType: prose
 ---
 
-  
-
 Popleta ani slípky neohlídá. Žena jen smutně vzdychá: To je bída! Pak mu to ale promine. A my s ní taky. Proč by ne?
 
 Žili jednou v jedné vsi žena a muž. Žena měla svého muže ráda, jenom ji trápilo, že všechno poplete. Když ho poslala pro olivy, přinesl kukuřici, když ho poslala pro kukuřici, přinesl kohouta. Když měl něco vyřídit, buď to vyřídil obráceně, nebo to docela zapomněl; a tak to šlo den ze dne a pořád dokola.

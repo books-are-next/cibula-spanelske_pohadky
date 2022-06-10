@@ -3,8 +3,6 @@ title: Zázračná flétna
 contentType: prose
 ---
 
-  
-
 Jeden muž měl tři syny: nejstaršího Matea, prostředního Manuela a nejmladšího Diega. Oba starší se nejmladšímu tak dlouho posmívali, že je slabý a hloupý a k ničemu, až všichni ve vsi uvěřili, že je to pravda. Nakonec uvěřil i otec a řekl Diegovi:
 
 „Co s tebou, synku? Půjdeš k pánovi do služby a zkusíš pást ovce.“

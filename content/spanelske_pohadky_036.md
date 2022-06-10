@@ -3,8 +3,6 @@ title: "Rybář a\_delfín"
 contentType: prose
 ---
 
-  
-
 Králům se cizí úspěch nelíbí, zapomínají rádi na sliby. Pomůže rada delfína? Pst! Pohádka už začíná.
 
 Kdysi dávno žil v malé vesnici na břehu moře rybář se svou ženou. Byli spolu šťastni, trápilo je však, že nemají děti. Vyptávali se lékařů i ranhojičů, zaříkávaček i bylinářek, ale všechno nadarmo.
