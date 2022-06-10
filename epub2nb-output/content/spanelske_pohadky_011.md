@@ -3,8 +3,6 @@ title: Paní Bída
 contentType: prose
 ---
 
-  
-
 Žila jednou jedna žena a ta byla tak chudá, že jí říkali paní Bída. Bydlila v nízké chatrči s rozpadlou střechou a neměla nic než vychrtlou kozu a zahrádku se starou hrušní.
 
 Živila se jen kozím mlékem a houbami z lesa. Rok co rok se těšila na hrušky ze své hrušně, ale kluci z vesnice jí vždycky hrušky otrhali a snědli. Paní Bída se zlobila, ale co to bylo platné? Kluci jsou kluci.

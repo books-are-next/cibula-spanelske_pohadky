@@ -3,8 +3,6 @@ title: Tři dary
 contentType: prose
 ---
 
-  
-
 Jednou dávno žili dva bratři, Pedro a Juan. Jíst neměli co, a tak se vydali do světa. Přišli na rozcestí, chvíli uvažovali kudy dál, až nakonec řekl Pedro Juanovi:
 
 „Ty půjdeš jednou cestou, já půjdu druhou. Za sedm dní se tady znovu setkáme a uvidíme, kdo měl víc štěstí.“

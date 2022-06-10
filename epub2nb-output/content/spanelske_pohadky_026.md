@@ -3,8 +3,6 @@ title: "Zázračné hory z\_ostrova Mallorky"
 contentType: prose
 ---
 
-  
-
 V jednom městě žil kdysi bohatý Maur. Měl krásný dům a ještě krásnější zahradu, vinice i olivový háj, ve sklepě truhly plné zlaťáků. Měl všechno, co si mohl přát, jen jedno mu chybělo a to si nemohl koupit ani za všechny zlaťáky světa: Maur byl totiž slepý. Nikdy neviděl hrozny ze svých vinic ani sluneční světlo, když se míhalo mezi listy olivovníků, ani růže v zahradě, ani modré nebe nad svým palácem.
 
 Přicházeli k němu slavní lékaři z královského města, přijížděli k němu přes moře z dalekých zemí, ale ať ho léčili, jak léčili, zrak mu vrátit nedokázali.

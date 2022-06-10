@@ -3,8 +3,6 @@ title: "Tři bratři z\_Galicie"
 contentType: prose
 ---
 
-  
-
 Jednou dávno žili tři bratři. A protože byli z Galicie, mluvili jen galicijsky. Na chudáka prší i pod střechou, a tak ti tři bez přestání přemýšleli, jak to udělat, aby se jim vedlo líp. Jednoho dne si řekli:
 
 „Všichni urozenci a boháči mluví španělsky. Musíme se tedy nejdřív naučit španělsky, protože to je ze všeho nejdůležitější. Potom už půjde všechno samo od sebe a my rychle zbohatneme.“

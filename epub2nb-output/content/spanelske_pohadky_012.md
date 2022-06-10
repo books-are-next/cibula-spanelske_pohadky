@@ -3,8 +3,6 @@ title: Půlkohoutek
 contentType: prose
 ---
 
-  
-
 Kdo samou pýchou mhouří víčka, skřípe pak jako korouhvička. Podivný někdy je náš svět. Mohu vám o tom vyprávět?
 
 Na jednom venkovském dvoře žila černá slepička s červeným hřebínkem na hlavě. Měla kolem sebe houf kuřátek, jedno pěknější než druhé. Jak už to však bývá, máma slepice měla ze všech nejraděj i malého kohoutka, chudáčka, který byl vlastně jen poloviční: od narození měl jen jedno oko, jedno křídlo a jednu nohu. Všichni ve dvoře mu proto říkali Půlkohoutek. Kohoutek se velmi zlobil, protože byl přesvědčen, že je ten nejkrásnější a nejodvážnější kohoutek z celé vesnice.

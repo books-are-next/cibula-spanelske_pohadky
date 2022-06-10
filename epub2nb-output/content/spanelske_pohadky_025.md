@@ -3,8 +3,6 @@ title: "O\_nahém králi"
 contentType: prose
 ---
 
-  
-
 Ve španělské zemi žil jeden maurský král a ten si velmi potrpěl na pěkné oblečení. Kupci mu přiváželi nejkrásnější látky z dalekých zemí a jeho krejčí mu šili nádherné oděvy, v nichž zářilo zlato a stříbro.
 
 Jednou přišli ke králi tři podvodníci a řekli mu:

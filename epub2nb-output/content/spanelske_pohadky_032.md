@@ -3,8 +3,6 @@ title: Tři karafiáty
 contentType: prose
 ---
 
-  
-
 Byl jednou jeden venkovan a ten měl hodnou a krásnou dceru. Miloval ji nade všechno; když plakala, snažil se ji rozveselit, když se smála, byl nejšťastnějším člověkem na světě. Jednoho dne se vracel z pole a našel při okraji lesa tři červené karafiáty; napadlo ho, že by potěšily jeho dceru. Opatrně je utrhl a přinesl domů.
 
 Dcera, jmenovala se María, měla z karafiátů velikou radost. Prohlížela si je ze všech stran a neustále volala otce:

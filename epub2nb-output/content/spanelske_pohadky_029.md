@@ -3,8 +3,6 @@ title: "O\_napravení zlostné ženy"
 contentType: prose
 ---
 
-  
-
 V jednom městě žil kdysi dávno vážený kupec se svou ženou. Oba rodiče však soužilo veliké trápení: měli jedinou dceru, ale ta byla tak zlá a divoká, že si s ní nevěděli rady. Ucházeli se o ni četní mládenci z města i z okolí, avšak každého vyhnala od dveří s mnoha zlostnými a hlasitými slovy, a nejednou přidala i pádné rány pěstí. Nejvytrvalejší mladíky nakonec odnesli sluhové se zlámanými kostmi.
 
 Nápadníků proto ubývalo. Nakonec se všichni vyhýbali zlostné dívce velkým obloukem, neboť se o ní říkalo po celém městě, že je to nejdivočejší a nejprudší osoba na světě. Rodiče z toho byli nešťastní, domlouvali jí, ale jako by hrách na stěnu házel, dcera byla ještě hádavější a ještě divočejší.

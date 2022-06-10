@@ -3,8 +3,6 @@ title: Žabí panenka
 contentType: prose
 ---
 
-  
-
 Žili jednou muž a žena. Měli tři syny, Fernanda, Antonia a Miguela, chlapce jako jedle, ale jinak už neměli nic: byli chudí, tak chudí, že div neumřeli hladem. Jednoho dne řekl nejstarší syn otci:
 
 „Otče, půjdu do světa, třeba někde najdu štěstí a vydělám trochu peněz. Potom se vrátím a koupím ti aspoň políčko, abyste nemuseli s matkou tak nuzovat.“

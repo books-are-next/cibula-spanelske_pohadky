@@ -3,8 +3,6 @@ title: "Opice a\_jabloň"
 contentType: prose
 ---
 
-  
-
 Na starém olivovníku seděla opice a jedla granátové jablko.
 
 Jak tak jablko jedla, upadlo jí jedno jadérko na zem vedle olivovníku. Po nějaké době si opice všimla, že z jadérka roste jablůňka. Rozběhla se k muži, kterému patřil olivovník, a řekla:

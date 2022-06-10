@@ -3,8 +3,6 @@ title: Nejsilnější kniha světa
 contentType: prose
 ---
 
-  
-
 Sedm jich bylo, přišli s loučí, svítili v zámku na pavoučí. Lapkové? Sovy? Kdo to ví? Pohádka nám to napoví.
 
 Byla jednou jedna chudá vdova a ta měla sedm synů. Žilo se jim těžko, přetěžko, protože byli chudí, nejchudší z celé vesnice. Když už nevěděli, jak dál, vydali se synové do světa za obživou; matka zůstala doma a starala se o jedinou ovečku a o záhon kukuřice, který byl tak malý, že by ho přeskočil nedorostlý zajíc.
