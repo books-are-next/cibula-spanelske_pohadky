@@ -3,6 +3,8 @@ title: "O\_myších, kterým chutnalo železo"
 contentType: prose
 ---
 
+<section>
+
 I ježek zmiji oči vytře. Vyhrává, kdo si vede chytře. Nejsou to vždy jen zvířátka. O tom je tahle pohádka.
 
 V jednom malém městě žil kdysi kupec. Byl spíš chudý než bohatý, neměl ženu ani děti. Měl jen těžkou železnou váhu, památku po otci; na té váze už vážil nejenom jeho otec, ale i děd, praděd, a také otec toho praděda.
@@ -84,3 +86,5 @@ Soudce hned pochopil, co se stalo, povstal a řekl:
 „Poslyšte oba můj rozsudek. Ty vrať kupci železnou váhu a ty vrať otci jeho syna. Neboť taková je spravedlnost.“
 
 A oba tak učinili. Soused s hanbou, kupec vesele a s radostí.
+
+</section>

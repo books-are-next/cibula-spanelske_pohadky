@@ -3,6 +3,8 @@ title: "O\_královském rouchu"
 contentType: prose
 ---
 
+<section>
+
 Byl jednou jeden král a ten měl pěknou dceru. Jednoho dne seděla princezna před zrcadlem a česala se. Znenadání objevila ve vlasech malou vešku.
 
 Přivolala krále a řekla:
@@ -126,3 +128,5 @@ A král řekl:
 A tak se oženil chudý pastýř s královskou dcerou.
 
 Šťastně žili, víno pili, a mně nedali, ještě se mi vysmáli. Dali mi jen panenku, protože však z másla byla, na slunci se rozpustila.
+
+</section>

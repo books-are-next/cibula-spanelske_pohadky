@@ -3,6 +3,8 @@ title: Tajemství
 contentType: prose
 ---
 
+<section>
+
 Žili kdysi muž a žena. Žena byla povídavá, neřekla, co nevěděla, a muž se na ni proto často hněval. Nakonec byl raději s kamarády než se ženou a leckdy se s nimi veselil dlouho do noci. Jednou se zase vrátil domů až k ránu. Žena ležela už dávno v posteli, ale nespala; sotva vrzla před chalupou vrátka, vyskočila a začala muži vyčítat, že se vrací tak pozdě.
 
 Muž však položil ukazováček na ústa a řekl:
@@ -90,3 +92,5 @@ Muž se vrátil ke své ženě a řekl jí:
 Žena se zastyděla, ale muž dodržel slovo.
 
 A ta pohádka nás učí: nesvěřujte nikdy ani nejmenší tajemství člověku, kterému jazyk před rozumem utíká!
+
+</section>

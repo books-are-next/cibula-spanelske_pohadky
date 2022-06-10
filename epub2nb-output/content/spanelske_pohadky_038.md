@@ -3,6 +3,8 @@ title: "Katalineta a\_velryba"
 contentType: prose
 ---
 
+<section>
+
 Jednou žili ve španělsku bratr a sestra, jmenovali se Bernadet a Katalineta. Byli sami, sami na celém světě, rodiče jim zemřeli, když děti byly ještě docela malé. O dům i o děti se starala chůva a její dcera.
 
 Bernadet a Katalineta se měli tak rádi, že jeden bez druhého neudělal ani krok. Čas však míjel, z Bernadeta už byl mladý muž a z Katalinety dívka skoro na vdávání. A tak se stalo, že Bernadet musel na vojnu, aby bojoval za svého krále a pána. Stará chůva byla hádavá a zlostná, její dcera byla ještě horší, a tak oba sourozenci věděli, že Katalinetu nečeká nic dobrého. Chůva i její dcera záviděly Katalinetě její krásu a vylévaly si na ní svůj hněv při každé sebemenší příležitosti.
@@ -196,3 +198,5 @@ Nevím. Ale říká se, že od té doby svítí slunce v tom kraji od rána do 
 Zbývá povědět, co se stalo s velrybou.
 
 Odplula daleko do moře a byla šťastná, že všechno dopadlo tak, jak si to přála už tenkrát, když zachránila Katalinetu z mořských hlubin.
+
+</section>

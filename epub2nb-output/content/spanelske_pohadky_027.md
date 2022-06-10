@@ -3,6 +3,8 @@ title: Žabí panenka
 contentType: prose
 ---
 
+<section>
+
 Žili jednou muž a žena. Měli tři syny, Fernanda, Antonia a Miguela, chlapce jako jedle, ale jinak už neměli nic: byli chudí, tak chudí, že div neumřeli hladem. Jednoho dne řekl nejstarší syn otci:
 
 „Otče, půjdu do světa, třeba někde najdu štěstí a vydělám trochu peněz. Potom se vrátím a koupím ti aspoň políčko, abyste nemuseli s matkou tak nuzovat.“
@@ -198,3 +200,5 @@ Na šťastné shledání uchystali svým synům i snachám dobrou večeři a p
 Žabí panenka jedla jen málo; předstírala, že si hází každé zrnko hráchu a každé vejce za výstřih, ale házela tam jen stříbrné penízky, drobounké jako šupinky ryb. Obě ženy si v duchu řekly, že to budou zase nějaká kouzla, a nabraly si za šaty tolik hrachu a tolik vajec, kolik se jich tam jenom vešlo.
 
 Když večeře skončila, pištci začali hrát a všichni se dali do tance. Přišli i sousedé a mohli na žabí panence oči nechat, jak se jim líbila. A kdykoli se žabí panenka v tanci otočila, padaly na podlahu stříbrné penízky; ale kdykoli se otočily nevěsty obou starších bratrů, padaly z nich na podlahu vejce a hrách. Sousedé se vrhli na penízky, psi na hrách a rozbitá vejce.
+
+</section>

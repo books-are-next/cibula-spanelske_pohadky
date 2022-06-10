@@ -3,6 +3,8 @@ title: Neposlušná manželka
 contentType: prose
 ---
 
+<section>
+
 V jedné vesnici žil mladý muž a ten se oženil s dívkou, kterou měl rád. Díval se na ni jako na obrázek, všechno se mu na ní líbilo: ruce i oči, ústa i vlasy. Smála se od rána do večera a to se mladému muži líbilo ze všeho nejvíc. Jen jednu chybu měla nevěsta: celý den chodila od ničeho k ničemu, a kam ji ráno postavil, tam ji večer našel.
 
 Ženichovi to však nijak nevadilo. Když ráno žena nechtěla vstávat z postele, muž uvařil snídani, přinesl jí všechno, co si přála, a byl šťasten, že jí může udělat radost.
@@ -156,3 +158,5 @@ A tak vzniklo ve Španělsku rčení:
 Z převelké lenosti zlámala si kosti.
 
 Pohádka končí, pálí v puse, přivál mě vítr, už mě nese dál. Po světě trochu rozhlédnu se, pohádku novou rád bych povídal.
+
+</section>

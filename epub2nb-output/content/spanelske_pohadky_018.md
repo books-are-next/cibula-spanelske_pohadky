@@ -3,6 +3,8 @@ title: Kdo je šťastnější
 contentType: prose
 ---
 
+<section>
+
 Byl jednou jeden švec a ten neměl nic než ženu, pět synů a jednu dceru. Byli chudí, moc chudí, ale zpívali si od rána do večera. Když dostal švec za spravené boty nějaký peníz, byl to pro něj svátek; ale často neměli co jíst, a tak se sotva drželi při životě.
 
 Nedaleko ševce bydlel ve velkém domě bohatý pán se svou ženou. Peněz měli, že nevěděli co s nimi, nic na světě jim nechybělo. Ale nezazpívali si celý rok a šťastní nebyli ani trochu.
@@ -86,3 +88,5 @@ Bohatá paní se velmi podivila, spěchala zpátky domů a řekla své­mu muž
 Muž potřásl hlavou a odpověděl:
 
 „Když jsou hloupí, tak ať zůstanou chudí. Těm není pomoci.“
+
+</section>

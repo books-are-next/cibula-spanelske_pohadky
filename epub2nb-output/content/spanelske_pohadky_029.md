@@ -3,6 +3,8 @@ title: "O\_napravení zlostné ženy"
 contentType: prose
 ---
 
+<section>
+
 V jednom městě žil kdysi dávno vážený kupec se svou ženou. Oba rodiče však soužilo veliké trápení: měli jedinou dceru, ale ta byla tak zlá a divoká, že si s ní nevěděli rady. Ucházeli se o ni četní mládenci z města i z okolí, avšak každého vyhnala od dveří s mnoha zlostnými a hlasitými slovy, a nejednou přidala i pádné rány pěstí. Nejvytrvalejší mladíky nakonec odnesli sluhové se zlámanými kostmi.
 
 Nápadníků proto ubývalo. Nakonec se všichni vyhýbali zlostné dívce velkým obloukem, neboť se o ní říkalo po celém městě, že je to nejdivočejší a nejprudší osoba na světě. Rodiče z toho byli nešťastní, domlouvali jí, ale jako by hrách na stěnu házel, dcera byla ještě hádavější a ještě divočejší.
@@ -86,3 +88,5 @@ Když se vrátil, položil si meč na kolena a znovu se rozhlédl. Spatřil svo
 Kupcova žena se však rozesmála a smála se tolik, až jí tekly z očí slzy. Když se konečně po dlouhé chvíli přestala smát, pohlédla na kupce a zvolala:
 
 „To sis měl vzpomenout dřív, teď už je pozdě! Přece tě za ty roky, co žijeme spolu, už dávno znám! Teď už ti nepomůže, kdybys zabil sto kohoutů!“
+
+</section>

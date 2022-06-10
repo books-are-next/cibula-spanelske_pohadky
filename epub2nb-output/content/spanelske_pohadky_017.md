@@ -3,6 +3,8 @@ title: "O\_ženě, která nechtěla jíst se svým mužem"
 contentType: prose
 ---
 
+<section>
+
 V jedné vesnici žili kdysi muž a žena. Žili klidně a spokojeně a bylo jim spolu dobře. Muž ráno odešel na pole, oral, sil nebo sekal, v poled­ne snědl polévku ve stínu platanu, promluvil pár slov se sousedem z vedlejšího pole a znovu se pustil do práce. Když slunce zapadlo, vrátil se domů ke své ženě a tak se to opakovalo den ze dne, rok za rokem.
 
 Jednou v poledne opět seděl ve stínu platanu a pojídal řídkou polévku. Slunce pálilo, země byla rozpraskaná horkem a žárem. Venkovan chodil celé dopoledne sám a sám za svými volky, a tak si teď chtěl trochu popovídat.
@@ -126,3 +128,5 @@ A snědl obě placky. Když dojedl, žena vstala z postele, pomalu se přišou
 Muž položil pomalu lžíci na stůl a povzdychl si:
 
 „Ženo moje milovaná, to byl nečas, že si to ani představit nedovedeš. Všude bláta po kolena, zrovna jako bych stál v tom hrnci kaše, co jsi snědla po ránu. A ten lijavec! Kapky vody byly ještě větší než ta vejce, co jsi snědla k polednímu. Odpoledne bylo ještě hůř, to padaly kroupy veliké jako ty dva pecny chleba. A kdybych se byl neschoval pod strom, který měl korunu skoro tak širokou, jako byla ta tvá placka, byl bych se vrátil domů zmoklý jako ta slepice, co jsi ji měla k večeři!“
+
+</section>

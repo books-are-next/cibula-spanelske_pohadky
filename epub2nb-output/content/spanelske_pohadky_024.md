@@ -3,6 +3,8 @@ title: "Lékař a\_Smrt"
 contentType: prose
 ---
 
+<section>
+
 Byla jednou jedna chudá stará žena a ta měla jediného syna. Když chlapec vyrostl, poslala ho do světa, aby si našel nějakou práci, která by je uživila.
 
 Mladý muž poslechl a šel. Netrvalo dlouho a potkal Slunce.
@@ -64,3 +66,5 @@ Lékař vkročil do světnice a hned uviděl, že Smrt stojí nemocnému za hla
 Lidé se rozesmáli: došlo na jejich slova! Ale nesmáli se dlouho. Mladík, zdravý a silný, že mohl skály lámat, za hodinu opravdu umřel.
 
 Od té doby žil náš lékař v klidu a pokoji po mnoho let. Nebo aspoň tak dlouho, dokud se Smrt nepostavila k hlavám jeho lůžka.
+
+</section>

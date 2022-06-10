@@ -3,6 +3,8 @@ title: Paní Bída
 contentType: prose
 ---
 
+<section>
+
 Žila jednou jedna žena a ta byla tak chudá, že jí říkali paní Bída. Bydlila v nízké chatrči s rozpadlou střechou a neměla nic než vychrtlou kozu a zahrádku se starou hrušní.
 
 Živila se jen kozím mlékem a houbami z lesa. Rok co rok se těšila na hrušky ze své hrušně, ale kluci z vesnice jí vždycky hrušky otrhali a snědli. Paní Bída se zlobila, ale co to bylo platné? Kluci jsou kluci.
@@ -62,3 +64,5 @@ Podali do koruny hrušně list papíru a husí brk a paní Smrt slavnostně na
 Potom seskočila z hrušně a rozběhla se do světa. Slib však splnila: od té doby nechala paní Bídu na pokoji a zdaleka se vyhýbá její chatrči.
 
 Proto žije paní Bída dodnes.
+
+</section>

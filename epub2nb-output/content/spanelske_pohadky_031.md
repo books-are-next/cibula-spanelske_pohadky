@@ -3,6 +3,8 @@ title: Tři dary
 contentType: prose
 ---
 
+<section>
+
 Jednou dávno žili dva bratři, Pedro a Juan. Jíst neměli co, a tak se vydali do světa. Přišli na rozcestí, chvíli uvažovali kudy dál, až nakonec řekl Pedro Juanovi:
 
 „Ty půjdeš jednou cestou, já půjdu druhou. Za sedm dní se tady znovu setkáme a uvidíme, kdo měl víc štěstí.“
@@ -244,3 +246,5 @@ Pokrývka se vznesla jako šíp a vířila v divokých kruzích kolem chalupy.
 Sotva to řekl, pokrývka se poslušně snesla Pedrovi k nohám. Od té chvíle už Juan svému bratrovi nikdy nezáviděl.
 
 A žili šťastně, bez hádání, koroptvičky si nadívali. Mně dali kosti k obírání, dlouhý nos na mě udělali.
+
+</section>

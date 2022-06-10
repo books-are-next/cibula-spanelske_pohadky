@@ -3,6 +3,8 @@ title: Nejsilnější kniha světa
 contentType: prose
 ---
 
+<section>
+
 Sedm jich bylo, přišli s loučí, svítili v zámku na pavoučí. Lapkové? Sovy? Kdo to ví? Pohádka nám to napoví.
 
 Byla jednou jedna chudá vdova a ta měla sedm synů. Žilo se jim těžko, přetěžko, protože byli chudí, nejchudší z celé vesnice. Když už nevěděli, jak dál, vydali se synové do světa za obživou; matka zůstala doma a starala se o jedinou ovečku a o záhon kukuřice, který byl tak malý, že by ho přeskočil nedorostlý zajíc.
@@ -62,3 +64,5 @@ Domluvil a louč zhasla. Nejmladší bratr se rozběhl pro novou; když se vrá
 Ráno sestoupili bratři do sklepa a vykopali tam sedm hrnců plných zlata.
 
 Přivedli do zámku matku, opravili staré zdi, vyčistili všechny síně, komnaty, stáj i zahradu a začali hospodařit. A nikdy už neměli hlad a nikdy už nepoznali bídu. A nikdy také nezapomněli na starce a na to, co bylo psáno v jeho knize.
+
+</section>
