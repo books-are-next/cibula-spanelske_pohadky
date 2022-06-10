@@ -3,6 +3,8 @@ title: Pohádečky
 contentType: prose
 ---
 
+<section>
+
 Byl večer a na nebi vyskočily první hvězdy. Na palouku mezi stromy praskal oheň; kolem plamenů seděli tři pastevci a přes ramena měli barevné přikrývky. Dívali se do ohně a mlčeli.
 
 Mezi stromy se občas ozvaly pomalé kroky obrovských černých býků. Daleko nad horami vyšel oranžový měsíc a ozářil chuchvalce mlhy v údolí a v roklinách.
@@ -43,7 +45,9 @@ Hlupák se zasmál a zvolal:
 
 „Žádné tušení! Teď vím docela určitě, že to byl nějaký zloděj!“
 
-  
+</section>
+
+<section>
 
 Měsíc vystoupil vysoko nad hory a jeho světlo už nebyla oranžové, ale zelené. Druhý pastevec povstal, hodil do skomírajících plamenů náruč dřeva, posadil se a začal vyprávět:
 
@@ -113,7 +117,9 @@ Urozený pán obrátil koně a řekl:
 
 A tryskem se vrátil zpátky do města.
 
-  
+</section>
+
+<section>
 
 Když druhý pastevec domluvil, chvíli bylo ticho. Oheň dohoříval. Měsíc na nebi vystoupil ještě výš a jeho světlo už nebylo oranžové ani zelené, ale modré. Nejstarší pastevec vstal a hodil do řeřavého dřeva náruč suchých větví. Plameny vyšlehly, dřevo zapraskalo a pastevec začal vyprávět:
 
@@ -173,6 +179,10 @@ Nato vystoupil muž z úkrytu a zvolal:
 
 „Teď jste tady všichni, a tak vám tedy říkám: ten osel stál padesát reálů!“
 
-  
+</section>
+
+<section>
 
 Když nejstarší pastevec skončil, měsíc stál vysoko na obloze, svítil stříbrně a hvězdy začínaly blednout. A ti tři se nad dohaslým ohněm domluvili, že se narodili ve stejné vesnici.
+
+</section>

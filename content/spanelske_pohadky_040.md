@@ -3,6 +3,8 @@ title: "Dvakrátjed a\_princezna"
 contentType: prose
 ---
 
+<section>
+
 Ve španělské zemi žil kdysi dávno jeden voják. Jmenoval se Juan, ale nikdo mu neřekl jinak než Dvakrátjed. Ať dělal co dělal, všechno dělal dvakrát víc než ostatní. Práce udělal za dva, sílu měl za dva, odvahy za dva, když se smál, smál se vždycky za dva, a hlavně za dva jedl. A někdy jedl i za tři nebo za čtyři, a ještě měl hlad a rozhlížel se, kde by co snědl.
 
 Jednou ho k sobě zavolal hejtman a zeptal se ho:
@@ -158,3 +160,5 @@ Otočil prstenem na malíčku a zvolal:
 V tu chvíli stála před ním princezna. Usmála se na něj šťastně a objala ho.
 
 Potom se obrátili k bráně královského paláce zády a odešli spolu z města.
+
+</section>

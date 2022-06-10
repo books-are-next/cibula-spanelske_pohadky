@@ -3,6 +3,8 @@ title: Bílý papoušek
 contentType: prose
 ---
 
+<section>
+
 Byl jednou jeden venkovský zeman a ten miloval krásnou, ale chudou dívku. A miloval ji tolik, že se s ní oženil.
 
 Nějaký čas po svatbě se však strhla vojna a zeman musel jít bojovat za krále. Loučil se těžko, přetěžko, protože jeho krásná žena právě čekala děťátko. I požádal svého správce, aby o ženu pečoval, a také ho poprosil, aby mu hned poslal zprávu, jakmile se dítě narodí.
@@ -208,3 +210,5 @@ Zavolal sluhy a přikázal jim, aby se hned rozjeli do rybářské vesnice a p
 Když bratr i sestra vstoupili do brány tvrze, matka jim vyběhla vstříc a poznala je. Zavedla je ke svému muži a sejmula jim bílé pásky; zeman spatřil na jejich čele hvězdy a pochopil, že to jsou jeho ztracené děti.
 
 Pak žili všichni spolu dlouhá a dlouhá léta a už se nikdy nerozloučili. A když se chlapec oženil a sestřička vdala, hrály si jejich děti vždycky nejraději s bílým papouškem.
+
+</section>

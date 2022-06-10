@@ -3,6 +3,8 @@ title: Pomluva
 contentType: prose
 ---
 
+<section>
+
 Před dávnými časy se zamiloval jeden mladík do hodné a krásné dívky. Děvčeti se mladík také líbil, a tak si dohodli den svatby a těšili se, že budou žít spolu.
 
 Ve stejné vesnici však žil jeden nedobrý a nepoctivý mládenec. Jednoho dne potkal dívku a zeptal se jí, zda by si ho chtěla vzít za muže. Dívka se rozhněvala a řekla mu:
@@ -56,3 +58,5 @@ Pomlouvač tak učinil a slabý hlas řekl:
 „Vidíš,“ řekl tichý hlas smutně, „a zrovna tak už nikdo nevrátí zpátky pomluvu. Za svůj zlý skutek se dočkáš trestu.“
 
 Stín se rozplynul a pomlouvač se jako v horečce vrátil domů. Ulehl, onemocněl a zakrátko už nebyl mezi živými.
+
+</section>

@@ -3,6 +3,8 @@ title: "Rybář a\_delfín"
 contentType: prose
 ---
 
+<section>
+
 Králům se cizí úspěch nelíbí, zapomínají rádi na sliby. Pomůže rada delfína? Pst! Pohádka už začíná.
 
 Kdysi dávno žil v malé vesnici na břehu moře rybář se svou ženou. Byli spolu šťastni, trápilo je však, že nemají děti. Vyptávali se lékařů i ranhojičů, zaříkávaček i bylinářek, ale všechno nadarmo.
@@ -412,3 +414,5 @@ Ohromený král spatřil, jak se proti nim blíží štíhlý delfín, a zavře
 Trvalo dlouho, než se zase vzpamatoval. Povzdychl si a řekl:
 
 „Králi moří, odvez mě zpátky na mou loď. Už se nechci ženit. A těm dvěma vyřiď, že splním, co jsem slíbil. Ať si tvůj rybář přijde pro královskou korunu. Na mou starou hlavu je už příliš, příliš těžká.“
+
+</section>

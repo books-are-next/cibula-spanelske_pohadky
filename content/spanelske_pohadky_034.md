@@ -3,6 +3,8 @@ title: "Pasačka a\_vlk"
 contentType: prose
 ---
 
+<section>
+
 Byla jednou jedna chudá, chudičká dívka. Otec a matka jí umřeli, když byla ještě docela malá, a tak se musela protloukat životem, jak se dalo. Sloužila u velkých i malých sedláků, chvíli v jedné vesnici, potom v druhé. Někdy pásla ovce, někdy kozy, jindy vepře.
 
 Jednou hlídala vepře na veliké louce u hustého lesa. Vepříci leželi v trávě anebo ryli v bahně u potoka. Všude byl klid, jen ptáci zpívali v povětří. Znenadání se ozval z lesa nářek.
@@ -170,3 +172,5 @@ Princezna se chvíli dívala na prince, potom se k němu vrhla a objala ho. Ta
 „Víš, koho jsi mi přivedla? Vždyť to je můj bratr! Před sedmi lety zmizel a já ho po celou tu dobu marně hledám! Navždycky ti budu vděčná, že jsi ho našla. Teď už mám jen jedinou podmínku: abyste mě pozvali na svatbu!“
 
 A tak všechno dobře dopadlo a všichni byli šťastní. Ale nejvíc ze všech přece jen malá pasačka.
+
+</section>

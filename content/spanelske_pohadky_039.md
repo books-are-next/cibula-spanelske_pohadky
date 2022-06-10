@@ -3,6 +3,8 @@ title: Čaroděj Palermo
 contentType: prose
 ---
 
+<section>
+
 Byla jednou jedna španělská královna a ta měla jediného syna. Princ byl dobrý, přívětivý a milý, ale jednu chybu přece jenom měl: nade všechno rád vysedával s kamarády a hrál s nimi nejrůznější hry, nejčastěji v kostky nebo karty. Nejdřív prohrával peníze, potom prohrál svého andaluského hřebce, potom celou stáj i celý hřebčín. Marně mu královna domlouvala a prosila ho, aby přestal. Prohrál i všechny její šperky a klenoty, prohrál rodný hrad, nakonec prohrál polovinu království a královskou korunu.
 
 Tehdy se poprvé zastyděl a bál se vrátit domů. Vydal se v zoufalství do světa a v duchu si sliboval, že se nevrátí dřív, dokud nedostane zpátky všechno, co tak lehkomyslně ztratil.
@@ -494,3 +496,5 @@ Princ se usmál, položil zlehka dlaň Palermově dceři na rameno a prohlásil
 Ještě toho dne se slavila svatba. Bez zlatého kočáru, bez andaluských hřebců, bez brokátových šatů, ale ti dva žili spolu šťastně až do smrti.
 
 I potom však smrt obcházela kolem nich jen po špičkách a dlouho váhala, než se přihlásila o svoje právo.
+
+</section>

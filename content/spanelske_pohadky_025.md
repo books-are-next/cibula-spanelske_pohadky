@@ -3,6 +3,8 @@ title: "O\_nahém králi"
 contentType: prose
 ---
 
+<section>
+
 Ve španělské zemi žil jeden maurský král a ten si velmi potrpěl na pěkné oblečení. Kupci mu přiváželi nejkrásnější látky z dalekých zemí a jeho krejčí mu šili nádherné oděvy, v nichž zářilo zlato a stříbro.
 
 Jednou přišli ke králi tři podvodníci a řekli mu:
@@ -98,3 +100,5 @@ Spěšně se vrátili do paláce a král hned nařídil, aby vsadili podvodné 
 I rozhodl se král, že bude od té chvíle říkat vždycky jen to, co vidí na vlastní oči a slyší jen na vlastní uši, a že bude totéž žádat i od všech ostatních.
 
 A vládl od té doby dobře a spravedlivě.
+
+</section>

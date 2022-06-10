@@ -3,6 +3,8 @@ title: "Voják a\_princezna"
 contentType: prose
 ---
 
+<section>
+
 Ve městě Londýně žil kdysi mocný král a ten měl krásnou dceru. Jednoho dne dal vyhlásit do všech světových stran, že ji provdá za toho, kdo uhodne, kde princezna v noci spí. A když to někdo ne­uhádne, odevzdá ho rovnou katovi.
 
 Zpráva se rychle rozšířila a do Londýna brzy přicházely celé zástupy princů a urozenců, aby hádali, kde princezna spí. Nikdo to však neuhádl.
@@ -310,3 +312,5 @@ Podíval se na krále a řekl:
 „Není třeba,“ řekl rychle král. „Vyhrál jsi, vojáku, protože jsi splnil všechny mé podmínky. Oznamuji celému dvoru, že Juan, voják ze Španěl, si vezme hned zítra za ženu mou dceru.“
 
 A tak se Juan, voják ze Španěl, oženil s dcerou královskou.
+
+</section>

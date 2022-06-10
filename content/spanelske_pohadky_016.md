@@ -3,6 +3,8 @@ title: "Jak se tři bratři tahali o\_přikrývku"
 contentType: prose
 ---
 
+<section>
+
 Byli jednou tři bratři. Sotva se naučili chodit, zemřel jim otec. Když povyrostli, zemřela jim matka. Nechala jim jen chalupu na spadnutí, velikou postel, zahrádku před oknem a políčko, že by ho přikryl dlaní.
 
 Tři bratři spali na veliké posteli a celou noc se tahali o jedinou přikrývku. Nevyspali se a bylo jim zima. Jednou k ránu se nejmladší bratr dopálil, vyskočil z postele a řekl:
@@ -168,3 +170,5 @@ Vrátil se ke třem bratrům a poprosil je, aby mohl zůstat s nimi.
 Přijali ho rádi a od té doby žili všichni spolu. Každý bratr spal pod svou přikrývkou, pastýř spával pod ovčí houní.
 
 Co jim chybělo?
+
+</section>

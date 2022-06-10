@@ -3,6 +3,8 @@ title: "Juan a\_zlatý prsten"
 contentType: prose
 ---
 
+<section>
+
 Byl jednou jeden chudý vesničan. Měl jen děravou chalupu, psa, kočku, políčko ve stráni a tři syny: nejstarší se jmenoval Pedro, prostřední Pablo a nejmladší Juan. Všichni žili svorně a pomáhali si navzájem ze všech sil; avšak čím byli synové starší, tím větší starosti měl otec, vždyť políčko bylo jako dlaň a rodilo jen kamení.
 
 Jednou seděl otec sám před chalupou, hlavu měl skloněnou a přemýšlel, co udělat, aby všichni neumřeli hladem. Mohl by dát syny do služby; ale ke komu? Sousedé na tom nebyli o nic líp a ve vsích kolem dokola žili jen stejní chudáci, kteří třeli bídu s nouzí.
@@ -330,3 +332,5 @@ Král přikázal, aby hledali princeznu po celém paláci i v zahradě, ale ne
 To už byli tři bratři, otec, pes a kočka dávno doma. I s princeznou.
 
 Juan si vzal princeznu za ženu a všichni žili šťastně až do smrti: Juan, Pablo, Pedro, otec, pes, kočka i princezna. Život si šťastně prožili, koroptvemi se živili. Mně dali k jídlu jenom kost, dělali na mě dlouhý nos.
+
+</section>

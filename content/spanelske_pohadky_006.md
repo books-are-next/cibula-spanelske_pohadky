@@ -3,6 +3,8 @@ title: Hádanka
 contentType: prose
 ---
 
+<section>
+
 Byl jednou jeden král a ten měl chytrou dceru. Princezna byla chytřejší než všichni dvořané a rádci, chytřejší než soudcové, chytřejší než královi ministři a vojevůdci. A protože byla tak chytrá, nechtěla si vzít za muže nikoho, kdo by byl hloupější než ona. Král naléhal, aby se už konečně vdala, ale princezna nechtěla a nechtěla. Nakonec řekla králi, svému otci:
 
 „Dobrá, když chceš, tak se vdám. Ale vezmu si jen toho, kdo mi poví tak těžkou hádanku, že ji neuhodnu.“
@@ -53,14 +55,18 @@ A zavolal princeznu.
 
 Pastýř si princeznu prohlédl od hlavy až k patě, nedal na sobě nijak znát, jestli se mu líbí nebo nelíbí, a hned spustil:
 
-  
+</section>
+
+<section>
 
 > _„Kukačka je nad kukačkou,  
 > v trávě leze hádek,  
 > do paláce běží  
 > malý povídálek.“_
 
-  
+</section>
+
+<section>
 
 Princezna přemýšlela a rozmýšlela, ale ať hádala, jak hádala, neuhodla.
 
@@ -85,3 +91,5 @@ Pastýř se zasmál.
 „Když jsem šel z domova, uviděl jsem strom a na něm dvě suché větve. Na spodní větvi seděla jedna kukačka, na horní větvi druhá. Řekl jsem si: kukačka je nad kukačkou. Potom jsem šel dál a uviděl jsem na palouku malého hádka. Řekl jsem si: v trávě leze hádek. Když jsem přišel k paláci, uviděl jsem, jak do hradeb teče z pramene ve stráni potůček. Bublal a skákal mezi kameny, zrovna jako by si povídal. A já si řekl: do paláce běží malý povídálek! Co je na tom tak těžkého?“
 
 Potom se pastýř obrátil ke králi i k princezně zády, opustil palác a vrátil se domů k mámě.
+
+</section>

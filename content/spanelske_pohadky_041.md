@@ -3,6 +3,8 @@ title: "Pohádka o\_kouzelné píšťalce"
 contentType: prose
 ---
 
+<section>
+
 „Chcete, abych vám ještě vyprávěl pohádku o kouzelné píšťalce?“
 
 „Ano, chceme!“
@@ -22,3 +24,5 @@ contentType: prose
 „Ano! Chceme!“
 
 „Škoda! Velká škoda! Kdybyste řekli, že nechcete, hned bych vám ji vyprávěl! Je to pěkná pohádka, i když nemá nikdy konec! Tak doopravdy: chcete slyšet pohádku o kouzelné píšťalce?“
+
+</section>

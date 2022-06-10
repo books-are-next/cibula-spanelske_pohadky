@@ -3,6 +3,8 @@ title: Co je na světě nejvzácnější
 contentType: prose
 ---
 
+<section>
+
 Byl jednou jeden král a ten měl tři syny. Vychovával je sám, protože královna zemřela, když se chlapci sotva učili chodit. V sousedním království vládla královna, která zase měla jen jedinou dceru. A ta dcera byla krásná jako slunce.
 
 Král byl vdovec, královna byla vdova, a tak se oba domluvili, že budou žít a kralovat společně. Královna s dcerou se přistěhovaly ke králi a všichni byli šťastní. Avšak stalo se, co se stát muselo – ti tři chlapci se zamilovali až po uši do krásné princezny. Každý z nich ji chtěl za ženu, ale mohl si ji vzít jen jeden. Proto předstoupili všichni tři před krále a řekli:
@@ -136,3 +138,5 @@ A o poznání tišeji dodala:
 „Ještě vám musím povědět, že nejmladší bratr se mi líbí už od chvíle, kdy jsem ho viděla poprvé. Toho si vezmu za muže, nikoho jiného!“
 
 A všichni uznali, že princezna je nejmoudřejší ze všech.
+
+</section>
