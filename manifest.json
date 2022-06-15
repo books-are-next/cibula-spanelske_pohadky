@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-spanelske-pohadky-fef4b53",
-  "revision": "fef4b53",
+  "identifier": "cibula-spanelske-pohadky-a1b5486",
+  "revision": "a1b5486",
   "readingOrder": [
     "promo.html",
     "spanelske_pohadky_005.html",
@@ -53,8 +53,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:53:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157202565
+    "date": "Wed Jun 15 2022 05:47:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272045873
   },
   "documents": [
     {
@@ -874,9 +874,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 126,
-      "chars": 807,
-      "ideas": 17,
+      "words": 147,
+      "chars": 1005,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "spanelske_pohadky_043.html",
@@ -894,9 +894,9 @@
   ],
   "totals": {
     "all": {
-      "words": 56892,
-      "chars": 324551,
-      "ideas": 2879
+      "words": 56913,
+      "chars": 324749,
+      "ideas": 2880
     },
     "chapters": {
       "words": 56761,
