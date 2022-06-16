@@ -12,7 +12,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-11-10T00:00:00.000Z'
   isbn: ' 2-7000-1158-9, 978‑80‑274‑1932‑6, 978‑80‑274‑1933‑3, 978‑80‑274‑1934‑0'
-  publisherShort: MKP
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
   - spanelske_pohadky_005.html
