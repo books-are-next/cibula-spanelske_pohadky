@@ -8,7 +8,7 @@ Redakce Markéta Teuchnerová
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN  2-7000-1158-9, 978‑80‑274‑1932‑6, 978‑80‑274‑1933‑3, 978‑80‑274‑1934‑0 (webová kniha)  
-V MKP 2. elektronické vydání z 16. 6. 2022.
+V MKP 2. elektronické vydání z 23. 6. 2022.
 
 ***
 
