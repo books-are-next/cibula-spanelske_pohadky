@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-spanelske-pohadky-a4781f8",
-  "revision": "a4781f8",
+  "identifier": "cibula-spanelske-pohadky-ac38fd1",
+  "revision": "ac38fd1",
   "readingOrder": [
     "promo.html",
     "spanelske_pohadky_005.html",
@@ -51,11 +51,11 @@
     "spanelske_pohadky_041.html",
     "spanelske_pohadky_042.html",
     "spanelske_pohadky_043.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:58:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978303764
+    "date": "Thu Jul 07 2022 08:18:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181939715
   },
   "documents": [
     {
@@ -286,7 +286,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Co je na světě nejvzácnější",
+          "name": "Co je na světě nejvzácnější",
           "id": null,
           "children": []
         }
@@ -326,7 +326,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak se tři bratři tahali o přikrývku",
+          "name": "Jak se tři bratři tahali o přikrývku",
           "id": null,
           "children": []
         }
@@ -346,7 +346,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "O ženě, která nechtěla jíst se svým mužem",
+          "name": "O ženě, která nechtěla jíst se svým mužem",
           "id": null,
           "children": []
         }
@@ -366,7 +366,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kdo je šťastnější",
+          "name": "Kdo je šťastnější",
           "id": null,
           "children": []
         }
@@ -846,7 +846,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Poznámka na závěr",
+          "name": "Poznámka na závěr",
           "id": null,
           "children": []
         }
@@ -861,7 +861,7 @@
       "role": "chapter",
       "order": 39,
       "prev": "spanelske_pohadky_042.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -874,11 +874,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 147,
-      "chars": 1005,
+      "chars": 1004,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "spanelske_pohadky_043.html",
       "next": null,
@@ -896,7 +896,7 @@
   "totals": {
     "all": {
       "words": 56914,
-      "chars": 324757,
+      "chars": 324756,
       "ideas": 2881
     },
     "chapters": {
