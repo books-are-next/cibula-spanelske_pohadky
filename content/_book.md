@@ -55,7 +55,7 @@ readingOrder:
   - spanelske_pohadky_041.html
   - spanelske_pohadky_042.html
   - spanelske_pohadky_043.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
