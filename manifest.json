@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-spanelske-pohadky-85a6a8f",
-  "revision": "85a6a8f",
+  "identifier": "cibula-spanelske-pohadky-2d78489",
+  "revision": "2d78489",
   "readingOrder": [
     "promo.html",
     "spanelske_pohadky_005.html",
@@ -54,8 +54,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:38:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901525393
+    "date": "Tue Oct 04 2022 18:31:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908291570
   },
   "documents": [
     {
