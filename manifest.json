@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-spanelske-pohadky-7cd2386",
-  "revision": "7cd2386",
+  "identifier": "cibula-spanelske-pohadky-5262567",
+  "revision": "5262567",
   "readingOrder": [
     "promo.html",
     "spanelske_pohadky_005.html",
@@ -54,8 +54,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:00:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151259619
+    "date": "Mon Oct 10 2022 15:53:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417219431
   },
   "documents": [
     {
@@ -876,7 +876,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 144,
-      "chars": 1005,
+      "chars": 1006,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -896,7 +896,7 @@
   "totals": {
     "all": {
       "words": 56911,
-      "chars": 324757,
+      "chars": 324758,
       "ideas": 2878
     },
     "chapters": {
